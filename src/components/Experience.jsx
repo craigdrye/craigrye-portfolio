@@ -111,8 +111,8 @@ export default function Experience() {
             <motion.div className="timeline-item" key={exp.date} variants={itemVariants}>
               <div className={`timeline-dot ${exp.active ? 'active' : ''}`} />
               <div className="timeline-date">{exp.date}</div>
-              <div className="timeline-role">{exp.role}</div>
-              <div className="timeline-org">{exp.org}</div>
+              <h3 className="timeline-role">{exp.role}</h3>
+              <h4 className="timeline-org">{exp.org}</h4>
               <ul className="timeline-highlights">
                 {exp.highlights.map((h, i) => (
                   <li key={i}>{h}</li>

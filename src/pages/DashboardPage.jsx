@@ -26,15 +26,58 @@ export default function DashboardPage() {
     }
   };
 
-  const dashboardNames = {
-    'antarctic-climate-change': 'Antarctic Climate Change',
-    'complexity-economics': 'Complexity Economics',
-    'climate-fear-index': 'Climate Fear Index',
-    'global-temperature-tracker': 'Global Temperature Tracker',
-    'data-mining': 'Data Mining'
+  const dashboardsMetadata = {
+    'antarctic-climate-change': {
+      title: 'Antarctic Climate Change & Sea Level Rise | Dr. Craig D. Rye',
+      description: 'Interactive dashboard analyzing Antarctic shelf waters and their impact on global sea level rise. Quantitative research on physical climate risk.'
+    },
+    'complexity-economics': {
+      title: 'Complexity Economics & Market Dynamics | Dr. Craig D. Rye',
+      description: 'Exploring non-linear systems and market indicators through a complexity lens. Interactive simulations of tipping points and feedback loops.'
+    },
+    'climate-fear-index': {
+      title: 'Climate Fear Index Analytics | Dr. Craig D. Rye',
+      description: 'Quantifying market sentiment and societal reactions to climate events using advanced data mining and index construction.'
+    },
+    'global-temperature-tracker': {
+      title: 'Global Temperature Tracker | Dr. Craig D. Rye',
+      description: 'Real-time visualization and analysis of global mean temperature anomalies and long-term climate trends.'
+    },
+    'data-mining': {
+      title: 'Institutional Data Mining & Research | Dr. Craig D. Rye',
+      description: 'Advanced data mining portfolio showcasing quantitative methodologies applied to climate and economic datasets.'
+    }
   };
 
-  const title = dashboardNames[dashboardId] || 'Research Dashboard';
+  const currentMetadata = dashboardsMetadata[dashboardId] || {
+    title: 'Research Dashboard | Dr. Craig D. Rye',
+    description: 'Specialized research dashboard exploring the intersection of climate science and quantitative finance.'
+  };
+
+  // Update document metadata for SEO
+  useEffect(() => {
+    document.title = currentMetadata.title;
+    
+    // Update meta description
+    let metaDescription = document.querySelector('meta[name="description"]');
+    if (metaDescription) {
+      metaDescription.setAttribute('content', currentMetadata.description);
+    }
+
+    // Update canonical link
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+      canonical.setAttribute('href', `https://craigrye.com/dashboards/${dashboardId}`);
+    }
+
+    // Cleanup when leaving the page (optional but good practice)
+    return () => {
+      document.title = 'Dr. Craig D. Rye — Climate Science & Quantitative Research';
+      if (metaDescription) {
+        metaDescription.setAttribute('content', 'Dr. Craig D. Rye: Institutional Investor #1 Ranked Quantitative Researcher & Climate Scientist.');
+      }
+    };
+  }, [dashboardId, currentMetadata]);
 
   return (
     <main className="dashboard-page" style={{ paddingTop: 'var(--nav-height)' }}>
@@ -42,7 +85,7 @@ export default function DashboardPage() {
         ref={iframeRef}
         onLoad={handleIframeLoad}
         src={`/projects/${dashboardId}/index.html`}
-        title={title}
+        title={currentMetadata.title}
         style={{
           width: '100%',
           height: 'calc(100vh - var(--nav-height))',

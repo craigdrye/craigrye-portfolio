@@ -120,7 +120,7 @@ export default function Projects() {
               </div>
               <div className="project-card-body">
                 <div className="project-card-tag">{project.tag}</div>
-                <div className="project-card-title">{project.title}</div>
+                <h3 className="project-card-title">{project.title}</h3>
                 <div className="project-card-desc">{project.description}</div>
               </div>
             </motion.div>

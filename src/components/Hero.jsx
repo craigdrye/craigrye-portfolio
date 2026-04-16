@@ -102,7 +102,7 @@ export default function Hero() {
             <div className="hero-photo-frame">
               <img
                 src="/images/headshot.jpg"
-                alt="Dr. Craig D. Rye"
+                alt="Dr. Craig D. Rye - Institutional Quantitative Researcher and Climate Scientist"
                 className="hero-photo"
               />
             </div>

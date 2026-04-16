@@ -49,7 +49,7 @@ export default function About() {
 
           <div className="about-sidebar">
             <div className="about-sidebar-card glass-card">
-              <h4 className="about-sidebar-title">Education</h4>
+              <h3 className="about-sidebar-title">Education</h3>
               <div className="about-edu-item">
                 <div className="about-edu-degree">Ph.D., Ocean Physics</div>
                 <div className="about-edu-school">National Oceanography Centre, Southampton &amp; British Antarctic Survey, Cambridge</div>
@@ -63,7 +63,7 @@ export default function About() {
             </div>
 
             <div className="about-sidebar-card glass-card">
-              <h4 className="about-sidebar-title">Licenses</h4>
+              <h3 className="about-sidebar-title">Licenses</h3>
               <div className="about-licenses">
                 {['Series 7', 'Series 86/87', 'Series 63', 'SIE'].map((lic) => (
                   <span className="about-license-tag" key={lic}>{lic}</span>
