@@ -1,0 +1,80 @@
+[
+  { 
+    "month": "200809", 
+    "title": "Lehmans Collapse", 
+    "domain": "economics",
+    "description": "Lehman Brothers files for bankruptcy, triggering the 2008 Global Financial Crisis and a decade of 'Great Recession' discourse."
+  },
+  { 
+    "month": "200901", 
+    "title": "Bitcoin Genesis", 
+    "domain": "economics",
+    "description": "Satoshi Nakamoto mines the first block of Bitcoin, launching the era of decentralized finance and crypto-correlations."
+  },
+  { 
+    "month": "201306", 
+    "title": "Snowden Leaks", 
+    "domain": "politics", 
+    "description": "Edward Snowden reveals NSA surveillance programs, causing a massive spike in 'Deep State' and 'Privacy' intelligence trends."
+  },
+  { 
+    "month": "201402", 
+    "title": "Crimea Annexed", 
+    "domain": "history",
+    "description": "Russia annexes Crimea, signaling the return of large-scale geopolitical conflict and territorial disputes in Europe."
+  },
+  { 
+    "month": "201606", 
+    "title": "Brexit Vote", 
+    "domain": "politics",
+    "description": "The UK votes to leave the EU, a major structural break in global political stability and economic coordination."
+  },
+  { 
+    "month": "201611", 
+    "title": "Trump Elected", 
+    "domain": "politics",
+    "description": "Donald Trump wins the US Presidency, fundamentally shifting the 'Polarization' and 'Populism' indices globally."
+  },
+  { 
+    "month": "201811", 
+    "title": "CRISPR Twins", 
+    "domain": "science",
+    "description": "He Jiankui announces the first gene-edited humans, sparking a massive ethical and scientific 'CRISPR' mention spike."
+  },
+  { 
+    "month": "201912", 
+    "title": "COVID-19 Start", 
+    "domain": "science",
+    "description": "First cases of a novel coronavirus identified in Wuhan, the beginning of the largest global health focus in a century."
+  },
+  { 
+    "month": "202003", 
+    "title": "WHO Pandemic", 
+    "domain": "science",
+    "description": "The WHO officially declares a Global Pandemic, leading to total dominance of science-related intelligence data."
+  },
+  { 
+    "month": "202101", 
+    "title": "Capitol Attack", 
+    "domain": "history",
+    "description": "US Capitol is stormed by protesters; a peak moment for 'Conspiracy' and 'Democracy' cross-trend analysis."
+  },
+  { 
+    "month": "202202", 
+    "title": "Ukraine War", 
+    "domain": "history",
+    "description": "Full-scale Russian invasion of Ukraine begins, resetting the 'Cold War' and 'Energy' intelligence metrics."
+  },
+  { 
+    "month": "202211", 
+    "title": "ChatGPT Launch", 
+    "domain": "science",
+    "description": "OpenAI releases ChatGPT, marking the start of the 'Generative AI' explosion across all scientific and economic domains."
+  },
+  { 
+    "month": "202310", 
+    "title": "Israel-Hamas War", 
+    "domain": "history",
+    "description": "Conflict begins in Gaza, driving a resurgence in 'Geopolitics' and 'Conflict' mentions across the Intelligence Hub."
+  }
+]

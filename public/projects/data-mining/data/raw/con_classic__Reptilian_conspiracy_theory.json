@@ -1,0 +1,706 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55999
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108622
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reptilian_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72781
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 244974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 286691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 267962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 227079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 209591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 301634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 398386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 403870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 265330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 262033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125374
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cricket",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 274277
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160999
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161374
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 224243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democracy",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42749
+    }
+  ]
+}

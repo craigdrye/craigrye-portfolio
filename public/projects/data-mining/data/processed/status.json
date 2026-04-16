@@ -1,0 +1,20 @@
+{
+  "wikipedia": {
+    "status": "complete",
+    "progress": 100
+  },
+  "google": {
+    "status": "complete",
+    "progress": 100
+  },
+  "crossref": {
+    "status": "complete",
+    "progress": 100
+  },
+  "gdelt": {
+    "status": "chilling",
+    "message": "Paused (Rate Limit): Expecting value: line 1 column 1 (char 0)",
+    "progress": -174,
+    "last_updated": "2026-04-07 21:43:35"
+  }
+}

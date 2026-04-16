@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 216073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 306536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 392607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 306677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 507599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 269370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 301119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 295561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 277567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 691936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 367503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 699353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 723179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 375507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 333612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 345207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 237167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 720147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 368040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 275058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 313952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 244492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 256525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 276151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 259590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 265484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 289049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 217483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 280974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 262406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 238609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 305028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 316325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 300060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 335188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 261851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 267574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 213764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 266260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 352276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 811863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 533319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 451300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 560092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 476397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 577246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 271063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 698265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 289296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 292340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 217617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 293667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 378695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 264625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 332850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 360289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 459926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 594792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 324777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 288491
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 262403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 225832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 267133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 242944
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 242159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 262660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 362030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 321615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 329945
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 338179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 428692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 287519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1429510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 946678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 330722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 731843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 589032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 433930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 346227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 617818
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 284850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fascism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157413
+    }
+  ]
+}

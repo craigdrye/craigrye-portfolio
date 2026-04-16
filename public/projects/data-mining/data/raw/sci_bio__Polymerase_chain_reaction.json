@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 222687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110491
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44818
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polymerase_chain_reaction",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17131
+    }
+  ]
+}

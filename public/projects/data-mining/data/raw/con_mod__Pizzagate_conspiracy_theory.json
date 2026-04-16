@@ -1,0 +1,1003 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 359886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 279809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 345702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 642525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 461193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2232659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2587450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1592955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 512860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 476822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 339249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 511863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86532
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 240650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Pizzagate_conspiracy_theory",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1491869
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 280749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1045112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48877
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 334715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57944
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 806800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 583090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 245830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 688059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 688544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Summer_Olympic_Games",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 264506
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39558
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cognitive_dissonance",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42027
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41491
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33364
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sitcom",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25768
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27532
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24945
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Role-playing_video_game",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20864
+    }
+  ]
+}

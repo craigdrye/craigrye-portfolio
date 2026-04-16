@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59623
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60949
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57558
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantum_entanglement",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39091
+    }
+  ]
+}

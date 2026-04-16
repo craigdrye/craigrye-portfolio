@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 309438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 326433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 346288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 485672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 398680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 284586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31344
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Streaming_media",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24936
+    }
+  ]
+}

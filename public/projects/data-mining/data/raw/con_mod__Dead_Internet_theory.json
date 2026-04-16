@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 316213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 520316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 311010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 217742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 363235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 327829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dead_Internet_theory",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116729
+    }
+  ]
+}

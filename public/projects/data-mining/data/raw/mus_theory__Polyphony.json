@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11622
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15016
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14231
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Polyphony",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7658
+    }
+  ]
+}

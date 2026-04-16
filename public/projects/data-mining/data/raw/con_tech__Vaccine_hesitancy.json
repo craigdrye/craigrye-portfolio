@@ -1,0 +1,778 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7999
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vaccine_hesitancy",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4777
+    }
+  ]
+}

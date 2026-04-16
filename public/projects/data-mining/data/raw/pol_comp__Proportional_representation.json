@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Proportional_representation",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25709
+    }
+  ]
+}

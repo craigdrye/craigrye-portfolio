@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153231
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "String_theory",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37005
+    }
+  ]
+}

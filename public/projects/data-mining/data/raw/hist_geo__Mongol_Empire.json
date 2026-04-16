@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 213215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176091
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122091
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mongol_Empire",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106960
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 310211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 329663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 238702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103336
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hip_hop_music",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12973
+    }
+  ]
+}

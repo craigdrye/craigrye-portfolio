@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12944
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11949
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Green_chemistry",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2208
+    }
+  ]
+}

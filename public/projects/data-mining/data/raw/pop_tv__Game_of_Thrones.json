@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1171642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 823321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 815878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 692111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 692048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 801959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 839628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 756659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 925187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1935076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3062483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3027419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1593538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 803325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 732521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 649444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 627736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 788911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 912088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 719680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 859319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 751820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 881050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 919510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2897024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5481576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1467095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 741230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 570516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 632274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 711613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 503925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 531439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 528488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 544379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 605200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 675050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 586531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 569324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 513834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 602958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 672833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 954855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 771526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1353840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4657449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4712157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 762880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 481577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 368168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 375271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 318114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 366355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 345547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 256736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 332623
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 510324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 509998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 377966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 368324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 349289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 335370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 345945
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 429212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 468114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 395217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 420193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 538342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 527701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 405329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 393816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 419950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 374323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 413351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 337810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 347199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 415833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 327568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 326494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 298413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 330193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 330694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 446466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 886808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 853453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 847598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 480326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 335186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 388894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 329379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 380203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 326160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 334927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 357299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 392733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 410138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 402706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 367173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 466704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 456667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 457174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 401664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 423752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 405797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 511257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 590406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 659809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 612092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 405972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 331088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 310380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 345383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 364376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 305389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 340289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 397032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 370688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 318848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 372353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 395376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 271966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 283851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 322442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 432189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_of_Thrones",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 421827
+    }
+  ]
+}

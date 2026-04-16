@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 213766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 240848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 224055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 286379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 225522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_matter",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54004
+    }
+  ]
+}

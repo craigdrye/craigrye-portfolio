@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "College_football",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27646
+    }
+  ]
+}

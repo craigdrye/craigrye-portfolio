@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114945
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91231
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Flat_Earth",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80504
+    }
+  ]
+}

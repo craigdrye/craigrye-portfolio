@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Climate Intelligence Dashboard</title>
+    <script type="module" crossorigin src="/projects/climate-fear-index/assets/index-D7qz-Uqu.js"></script>
+    <link rel="stylesheet" crossorigin href="/projects/climate-fear-index/assets/index-FeqWMchF.css">
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <h1>Climate Intelligence Dashboard</h1>
+        <p class="subtitle">Granular Strategy & Correlation Engine v5.2</p>
+      </header>
+
+      <div id="correlation-summary" class="summary-bar">
+        <!-- Dynamically populated -->
+      </div>
+
+      <main class="dashboard-grid">
+        <aside class="sidebar">
+          
+
+
+          <section class="control-category">
+            <h3>Timeline</h3>
+            <div class="control-group">
+              <select id="date-range">
+                <option value="365">Last 12 Months</option>
+                <option value="730">Last 2 Years</option>
+                <option value="1825">Last 5 Years</option>
+                <option value="all">Since 2015 (Wikipedia)</option>
+                <option value="deep" selected>Deep History (2004+)</option>
+              </select>
+            </div>
+          </section>
+
+          <section class="control-category">
+            <h3>1. Public Discourse</h3>
+
+            <!-- Unified Discourse Index -->
+            <div class="checkbox-pair master">
+              <div class="main-check">
+                <input type="checkbox" id="show-unified-discourse" checked />
+                <label for="show-unified-discourse">UNIFIED DISCOURSE INDEX</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="number" id="thickness-unified" class="thickness-input" min="1" max="8" value="2" title="Line thickness" />
+                <button class="offset-btn" data-id="unified" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-unified" value="-35" />
+                <span id="offset-val-unified" class="offset-display">-35</span>
+                <button class="offset-btn" data-id="unified" data-delta="5">↑</button>
+              </div>
+            </div>
+            <div class="divider"></div>
+
+            <div class="checkbox-pair bulk-toggle">
+              <div class="main-check">
+                <input type="checkbox" id="toggle-all-discourse" checked />
+                <label for="toggle-all-discourse">All Subcomponents</label>
+              </div>
+            </div>
+
+            <!-- Fear Index -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-fear" checked />
+                <label for="show-fear">Fear Index</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-fear" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-fear" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="fear" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-fear" value="-25" />
+                <span id="offset-val-fear" class="offset-display">-25</span>
+                <button class="offset-btn" data-id="fear" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- Media Mentions -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-media" checked />
+                <label for="show-media">Media Mentions</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-media" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-media" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="media" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-media" value="-35" />
+                <span id="offset-val-media" class="offset-display">-35</span>
+                <button class="offset-btn" data-id="media" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- Social Pulse -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-pulse" checked />
+                <label for="show-pulse">Social Pulse</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-pulse" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-pulse" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="pulse" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-pulse" value="-45" />
+                <span id="offset-val-pulse" class="offset-display">-45</span>
+                <button class="offset-btn" data-id="pulse" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- Climate Search -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-climateBase" checked />
+                <label for="show-climateBase">"Climate" Search</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-climateBase" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-climateBase" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="climateBase" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-climateBase" value="-45" />
+                <span id="offset-val-climateBase" class="offset-display">-45</span>
+                <button class="offset-btn" data-id="climateBase" data-delta="5">↑</button>
+              </div>
+            </div>
+          </section>
+
+          <section class="control-category">
+            <h3>2. Physical Reality</h3>
+
+            <!-- Temp Anomaly -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-temp" checked />
+                <label for="show-temp">Temp Anomaly (°C)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-temp" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-temp" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="temp" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-temp" value="0" />
+                <span id="offset-val-temp" class="offset-display">0</span>
+                <button class="offset-btn" data-id="temp" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- CO2 -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-co2" />
+                <label for="show-co2">CO2 Levels (ppm)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-co2" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-co2" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="co2" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-co2" value="0" />
+                <span id="offset-val-co2" class="offset-display">0</span>
+                <button class="offset-btn" data-id="co2" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- Temp Rate of Change -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-tempRate" />
+                <label for="show-tempRate">Temp Rate of Change (°C/yr)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-tempRate" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-tempRate" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="tempRate" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-tempRate" value="0" />
+                <span id="offset-val-tempRate" class="offset-display">0</span>
+                <button class="offset-btn" data-id="tempRate" data-delta="5">↑</button>
+              </div>
+            </div>
+          </section>
+
+          <section class="control-category">
+            <h3>3. Climate Indices</h3>
+
+            <!-- ENSO / RONI -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-enso" />
+                <label for="show-enso">El Niño / La Niña (RONI/ONI)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="number" id="thickness-enso" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="enso" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-enso" value="0" />
+                <span id="offset-val-enso" class="offset-display">0</span>
+                <button class="offset-btn" data-id="enso" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- MEI -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-mei" />
+                <label for="show-mei">Multivariate ENSO (MEI.v2)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="number" id="thickness-mei" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="mei" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-mei" value="0" />
+                <span id="offset-val-mei" class="offset-display">0</span>
+                <button class="offset-btn" data-id="mei" data-delta="5">↑</button>
+              </div>
+            </div>
+          </section>
+
+          <section class="control-category">
+            <h3>4. Human Impact</h3>
+
+            <!-- Disaster Frequency -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-disaster" />
+                <label for="show-disaster">Disaster Frequency</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-disaster" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-disaster" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="disaster" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-disaster" value="0" />
+                <span id="offset-val-disaster" class="offset-display">0</span>
+                <button class="offset-btn" data-id="disaster" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- Disaster Cost -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-cost" />
+                <label for="show-cost">Disaster Cost ($B)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-cost" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-cost" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="cost" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-cost" value="0" />
+                <span id="offset-val-cost" class="offset-display">0</span>
+                <button class="offset-btn" data-id="cost" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- Displacement -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-displacement" />
+                <label for="show-displacement">Displacement (M)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-displacement" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-displacement" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="displacement" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-displacement" value="0" />
+                <span id="offset-val-displacement" class="offset-display">0</span>
+                <button class="offset-btn" data-id="displacement" data-delta="5">↑</button>
+              </div>
+            </div>
+          </section>
+
+          <section class="control-category">
+            <h3>5. Institutional &amp; Markets</h3>
+
+            <!-- Coal -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-coal" />
+                <label for="show-coal">Coal Energy Share (%)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-coal" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-coal" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="coal" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-coal" value="0" />
+                <span id="offset-val-coal" class="offset-display">0</span>
+                <button class="offset-btn" data-id="coal" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- Litigation -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-litigation" />
+                <label for="show-litigation">Litigation Cases</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-litigation" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-litigation" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="litigation" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-litigation" value="0" />
+                <span id="offset-val-litigation" class="offset-display">0</span>
+                <button class="offset-btn" data-id="litigation" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- Carbon Price -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-carbon" />
+                <label for="show-carbon">Carbon Price (€)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-carbon" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-carbon" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="carbon" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-carbon" value="0" />
+                <span id="offset-val-carbon" class="offset-display">0</span>
+                <button class="offset-btn" data-id="carbon" data-delta="5">↑</button>
+              </div>
+            </div>
+          </section>
+
+          <section class="control-category">
+            <h3>6. Solutions &amp; Adoption</h3>
+
+            <!-- EV Sales -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-ev" />
+                <label for="show-ev">Electric Car Sales (EV)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-ev" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-ev" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="ev" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-ev" value="0" />
+                <span id="offset-val-ev" class="offset-display">0</span>
+                <button class="offset-btn" data-id="ev" data-delta="5">↑</button>
+              </div>
+            </div>
+
+            <!-- Solar -->
+            <div class="checkbox-pair">
+              <div class="main-check">
+                <input type="checkbox" id="show-solar" />
+                <label for="show-solar">Solar PV Capacity (GW)</label>
+              </div>
+              <div class="mini-toggles">
+                <input type="checkbox" class="d-toggle" id="d-solar" checked title="Detrend" /> <span class="mini-label">d</span>
+                <input type="number" id="thickness-solar" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
+                <button class="offset-btn" data-id="solar" data-delta="-5">↓</button>
+                <input type="hidden" id="offset-solar" value="0" />
+                <span id="offset-val-solar" class="offset-display">0</span>
+                <button class="offset-btn" data-id="solar" data-delta="5">↑</button>
+              </div>
+            </div>
+          </section>
+
+          <section class="control-category">
+            <h3>Wikipedia Topics</h3>
+            <div id="topics-list" class="topics-grid"></div>
+          </section>
+        </aside>
+
+        <section class="content-area">
+          <div class="chart-container stacked-chart-panel">
+            <div class="mini-chart">
+              <div class="chart-header compact">
+                <div>
+                  <h3>Climate Fear Index</h3>
+                  <p>Unified discourse and related public-attention series.</p>
+                </div>
+              </div>
+              <canvas id="intelligenceChart"></canvas>
+            </div>
+            <div class="mini-chart">
+              <div class="chart-header compact">
+                <div>
+                  <h3>Potential Drivers</h3>
+                  <p>Temperature anomaly separated into its own time-series view.</p>
+                </div>
+              </div>
+              <canvas id="temperatureChart"></canvas>
+            </div>
+          </div>
+
+          <div class="chart-container scatter-panel">
+            <div class="chart-header">
+              <div>
+                <h3>Correlation Scatter</h3>
+                <p>Compare a discourse series against any non-discourse metric using shared dates.</p>
+              </div>
+              <div class="scatter-controls">
+                <label class="select-group" for="scatter-discourse-series">
+                  <span>Y Axis</span>
+                  <select id="scatter-discourse-series">
+                    <option value="unified" selected>Unified Discourse Index</option>
+                    <option value="fear">Public Fear Index</option>
+                    <option value="media">Media Mentions</option>
+                    <option value="pulse">Social Pulse</option>
+                    <option value="climateBase">"Climate" Search</option>
+                  </select>
+                </label>
+                <label class="select-group" for="scatter-comparison-series">
+                  <span>X Axis</span>
+                  <select id="scatter-comparison-series">
+                    <option value="temp" selected>Temperature Anomaly</option>
+                    <option value="tempRate">Temp Rate of Change</option>
+                    <option value="co2">CO2 Levels</option>
+                    <option value="enso">El Nino / La Nina</option>
+                    <option value="mei">Multivariate ENSO</option>
+                    <option value="disaster">Disaster Frequency</option>
+                    <option value="cost">Disaster Cost</option>
+                    <option value="displacement">Human Displacement</option>
+                    <option value="coal">Coal Energy Share</option>
+                    <option value="litigation">Litigation Cases</option>
+                    <option value="carbon">Carbon Price</option>
+                    <option value="ev">EV Sales</option>
+                    <option value="solar">Solar Capacity</option>
+                  </select>
+                </label>
+              </div>
+            </div>
+            <canvas id="correlationScatterChart"></canvas>
+          </div>
+
+          <div class="info-grid">
+            <div class="info-card">
+              <h3>Granular Engine v5.2</h3>
+              <p>
+                Switch any line to Trend view using the **(s)** toggle. 
+                Use **(d)** to detrend individual series for anomaly hunting.
+                The window size is controlled by the **Smoothing Window** above.
+              </p>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer>
+        <p>Data: NASA, NOAA, IDMC, Sabin Center, Google Trends, Wikimedia.</p>
+      </footer>
+    </div>
+  </body>
+</html>

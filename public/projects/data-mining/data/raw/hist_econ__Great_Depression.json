@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 266418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 602129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 621554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 361468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 274015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118622
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Depression",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108773
+    }
+  ]
+}

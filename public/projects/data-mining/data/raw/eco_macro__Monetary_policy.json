@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38463
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Monetary_policy",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6010
+    }
+  ]
+}

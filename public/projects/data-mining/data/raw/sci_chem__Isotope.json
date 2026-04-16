@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51949
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63756
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46016
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29491
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Isotope",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13407
+    }
+  ]
+}

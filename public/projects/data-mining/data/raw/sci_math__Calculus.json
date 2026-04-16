@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101374
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Calculus",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48950
+    }
+  ]
+}

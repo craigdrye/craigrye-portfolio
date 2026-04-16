@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41016
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fiscal_policy",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4900
+    }
+  ]
+}

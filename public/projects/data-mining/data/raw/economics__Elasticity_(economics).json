@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16231
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17495
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Elasticity_(economics)",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3694
+    }
+  ]
+}

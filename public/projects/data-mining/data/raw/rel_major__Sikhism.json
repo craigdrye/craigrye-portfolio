@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 272185
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99558
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85945
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Sikhism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63996
+    }
+  ]
+}

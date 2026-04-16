@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92336
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84532
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90016
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Shinto",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64036
+    }
+  ]
+}

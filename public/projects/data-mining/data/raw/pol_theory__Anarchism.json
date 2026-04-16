@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186518
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anarchism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49126
+    }
+  ]
+}

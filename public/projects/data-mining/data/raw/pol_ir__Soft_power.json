@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20518
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15185
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soft_power",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11742
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 308899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 291832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 280235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 294915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 349724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 492361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 402407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 453536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 479531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 411100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 372806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 525952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 304352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 398947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 397033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344336
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 469572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 398191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 439586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 487795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 421706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 471380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 536674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 491768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 484951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 492223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 480390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 454506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 438941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 392632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 330019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 222277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 297313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 286415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 315344
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 362500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 369248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 332767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 422593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 463595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 370178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 451069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 486765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 284705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 301497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 321438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 314214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 388456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 368647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 413235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 466271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 407547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 356327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 285115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 306737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 302681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 353047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 535560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 445054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 371321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 365135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 419554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 385110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roblox",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 332621
+    }
+  ]
+}

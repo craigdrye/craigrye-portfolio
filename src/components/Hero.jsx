@@ -49,7 +49,7 @@ export default function Hero() {
             Climate scientist and quantitative researcher bridging{' '}
             <strong>physical climate risk</strong>, <strong>energy transition economics</strong>,
             and <strong>institutional finance</strong>. From modeling Antarctic ice sheets at
-            NASA to pricing wildfire risk on Wall Street.
+            NASA to wildfire risk on Wall Street.
           </motion.p>
 
           <motion.div

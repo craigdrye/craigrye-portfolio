@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marginal_utility",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5521
+    }
+  ]
+}

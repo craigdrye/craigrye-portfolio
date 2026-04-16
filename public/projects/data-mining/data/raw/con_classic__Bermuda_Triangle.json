@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 280218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 279695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 273653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 331083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 268447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 302023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 274968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 308500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 308008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 267100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 287368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 266562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 503296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 277600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 273721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 302748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 280093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 458342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 312507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 339906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 264118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 313580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 265318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 232108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 295938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 323710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 274991
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 275967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 255318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 227863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 258770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 301050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 234330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 271462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 242248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 281843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 246281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 222152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 225997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 258043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 268917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 234052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 234667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 217641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 272045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 227246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 368967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 317125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 238734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 240634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 246966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 234523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 238887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150374
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126623
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bermuda_Triangle",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103579
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Orientalism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21709
+    }
+  ]
+}

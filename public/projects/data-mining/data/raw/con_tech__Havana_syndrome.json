@@ -1,0 +1,787 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 385535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 704782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 427789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 306047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 234984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 302109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40091
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 495554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Havana_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163482
+    }
+  ]
+}

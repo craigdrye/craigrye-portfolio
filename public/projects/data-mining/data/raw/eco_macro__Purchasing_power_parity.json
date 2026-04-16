@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84853
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Purchasing_power_parity",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62379
+    }
+  ]
+}

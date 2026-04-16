@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21558
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17344
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13091
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Counterpoint",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10573
+    }
+  ]
+}

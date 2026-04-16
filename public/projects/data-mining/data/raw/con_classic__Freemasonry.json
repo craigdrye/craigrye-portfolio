@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 260063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 263078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 284740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 298617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 288614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 324577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 291460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 299499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 297253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 292488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 265636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 272380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 286515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 294598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 327077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 298887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 325424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 281666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 300557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 352561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 327631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 291241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 292735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 264023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 286688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 317441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 406564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 346905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 334669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 314046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 318186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 290443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 303975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 323201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 343937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 325512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 273908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 277218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 291835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 249781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 291050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 289250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 273406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 265481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 246560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 262416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 277007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 336290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 376534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 272953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 242185
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 249421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 266299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257756
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 272642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 224081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 225877
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 294544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 290696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 279781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 303346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 276474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 308591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 297416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 279328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 298565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 353373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 290700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 310453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 272384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 302581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 292014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 343238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 306207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 358015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 325737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 338108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 295906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 269242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 300726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 232095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 265983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 237394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 225536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 271499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Freemasonry",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241543
+    }
+  ]
+}

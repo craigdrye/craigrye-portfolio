@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Supply_and_demand",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11902
+    }
+  ]
+}

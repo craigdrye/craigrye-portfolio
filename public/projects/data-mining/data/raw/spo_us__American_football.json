@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 222259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 258506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 279315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101463
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "American_football",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118024
+    }
+  ]
+}

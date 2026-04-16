@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80622
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 234304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 256393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 296729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39999
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Astrology",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38971
+    }
+  ]
+}

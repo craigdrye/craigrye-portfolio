@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26364
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26756
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Science_fiction_film",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19818
+    }
+  ]
+}

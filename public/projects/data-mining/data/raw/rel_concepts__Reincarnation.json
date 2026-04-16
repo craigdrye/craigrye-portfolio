@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81364
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45016
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39532
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reincarnation",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25046
+    }
+  ]
+}

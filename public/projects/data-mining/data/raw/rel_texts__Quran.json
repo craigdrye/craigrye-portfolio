@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 258438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 237665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90463
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quran",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107617
+    }
+  ]
+}

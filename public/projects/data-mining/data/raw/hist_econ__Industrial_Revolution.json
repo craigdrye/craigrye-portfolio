@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 242153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 245381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 246876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 209325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154991
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Industrial_Revolution",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94335
+    }
+  ]
+}

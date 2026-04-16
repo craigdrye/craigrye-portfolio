@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3622
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "HAARP",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 348
+    }
+  ]
+}

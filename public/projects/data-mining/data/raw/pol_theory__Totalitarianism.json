@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Totalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44374
+    }
+  ]
+}

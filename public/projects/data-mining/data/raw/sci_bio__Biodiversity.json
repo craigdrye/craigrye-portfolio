@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Biodiversity",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13636
+    }
+  ]
+}

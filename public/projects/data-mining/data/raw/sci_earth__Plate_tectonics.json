@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Plate_tectonics",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47219
+    }
+  ]
+}

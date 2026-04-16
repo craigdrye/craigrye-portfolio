@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16622
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13945
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15944
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15623
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10622
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoclassical_economics",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5523
+    }
+  ]
+}

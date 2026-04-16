@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 522770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 427842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 313745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 357094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 423437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 446962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 403681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 360348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 548537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 673220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1268673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 403001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 374520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 382195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 384638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 419620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 555515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 434180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 424920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 423753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 494249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 473430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 547033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 454270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 754688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 473265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 303900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 401390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 799375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 679486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 520859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 807263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1041057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1665282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1836159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 662150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 728128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 726445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 603841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 519436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 407273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 634095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 620891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 444990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1003948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1883293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1633974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 674972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1131001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 764544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 495655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 419317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 442395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 457581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 466978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 373266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 466058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 694174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 584041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 406155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 397380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 439251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 411458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 324272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 302376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 506234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 553967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 725626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 970661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 860792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 726771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 495322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 798588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 579487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 572845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 475674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 633017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1040081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 938536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 403758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 456634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 549061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 781538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 498680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 986681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 491752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 475550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 468524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 466357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 364054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 394241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 640002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 501380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 453362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 584755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 470743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 469087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 417869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 328422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 404673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 633923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 548615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 596898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 521218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 361542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 299033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 336734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 261086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 556403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 508985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 301445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 312771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 300890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 305031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 335913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 426412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 360923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 494658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 283045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 470984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 401150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 263206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 299028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Marvel_Cinematic_Universe",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195808
+    }
+  ]
+}

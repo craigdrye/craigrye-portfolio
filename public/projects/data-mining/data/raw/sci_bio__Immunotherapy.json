@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19877
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Immunotherapy",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4398
+    }
+  ]
+}

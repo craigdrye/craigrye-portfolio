@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Science & Conspiracy | Intelligence Engine</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,500;0,600;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css?v=4.0" />
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <div>
+          <p class="eyebrow">Multi-Source Intelligence</p>
+          <h1>Science & Conspiracy Hub</h1>
+        </div>
+        <div class="header-controls">
+          <div class="event-toggles" id="event-toggles">
+            <!-- Event checkboxes injected by JS -->
+          </div>
+          <div class="time-pills" id="time-pills">
+            <button class="time-pill" data-years="1">1Y</button>
+            <button class="time-pill" data-years="2">2Y</button>
+            <button class="time-pill" data-years="5">5Y</button>
+            <button class="time-pill" data-years="10">10Y</button>
+            <button class="time-pill active" data-years="all">All</button>
+          </div>
+        </div>
+      </header>
+
+      <main class="dashboard-grid">
+        <aside class="sidebar">
+          <div class="sidebar-header">
+            <h2>Intelligence Engine v4.0</h2>
+            <p class="sidebar-subtitle">Universal Correlation Matrix</p>
+            
+            <!-- Live Status Telemetry -->
+            <div id="telemetry-box" class="telemetry-box">
+              <div class="telemetry-item" data-source="wiki">Wiki: --</div>
+              <div class="telemetry-item" data-source="google">Google: --</div>
+              <div class="telemetry-item" data-source="crossref">Scholar: --</div>
+              <div class="telemetry-item" data-source="gdelt">News: --</div>
+            </div>
+
+            <div class="search-container">
+              <input type="text" id="topic-search" placeholder="Filter intelligence..." aria-label="Search topics" />
+            </div>
+          </div>
+          <div id="topic-tree" class="topic-tree">
+            <!-- Hierarchical tree injected here -->
+          </div>
+        </aside>
+
+        <section class="content-area">
+          <div class="subplot-grid">
+            <div class="subplot-panel">
+              <div class="subplot-title">📖 Wikipedia — Share of Total Traffic (%)</div>
+              <div class="subplot-chart"><canvas id="chart-wiki"></canvas></div>
+            </div>
+            <div class="subplot-panel">
+              <div class="subplot-title">🔍 Google Trends — Search Interest (0-100)</div>
+              <div class="subplot-chart"><canvas id="chart-google"></canvas></div>
+            </div>
+            <div class="subplot-panel">
+              <div class="subplot-title">🎓 CrossRef — Share of Scholarly Output (%)</div>
+              <div class="subplot-chart"><canvas id="chart-crossref"></canvas></div>
+            </div>
+            <div class="subplot-panel">
+              <div class="subplot-title">📰 GDELT — News Volume (Normalized)</div>
+              <div class="subplot-chart"><canvas id="chart-gdelt"></canvas></div>
+            </div>
+          </div>
+
+          <div class="info-card">
+            <div class="info-flex">
+              <div>
+                <h3>Correlation Engine v4.0</h3>
+                <p>
+                  All 4 sources shown simultaneously. Toggle events via header checkboxes.
+                  Use <strong>↑↓</strong> to shift peaks. Line styles cycle per topic.
+                </p>
+              </div>
+              <div id="correlation-box" class="correlation-box">
+                <span class="corr-label">Cross-Source Pearson:</span>
+                <span id="correlation-value" class="corr-value">N/A</span>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.0.1/dist/chartjs-plugin-annotation.min.js"></script>
+    <script src="./main.js?v=4.0.0"></script>
+  </body>
+</html>

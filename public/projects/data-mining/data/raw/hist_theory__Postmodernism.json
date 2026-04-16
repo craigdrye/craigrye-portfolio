@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Postmodernism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28865
+    }
+  ]
+}

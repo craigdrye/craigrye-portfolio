@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 453039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28344
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Tulip_mania",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32743
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Libertarianism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45256
+    }
+  ]
+}

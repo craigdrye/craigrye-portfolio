@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62991
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Chaos_theory",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37634
+    }
+  ]
+}

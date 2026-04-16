@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6532
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Democratization",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4179
+    }
+  ]
+}

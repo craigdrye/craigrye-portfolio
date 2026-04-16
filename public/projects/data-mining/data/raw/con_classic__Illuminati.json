@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 434293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 416399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 432259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 452501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 453801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 409955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 409755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 464406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 438595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 463678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 433451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 342684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 379997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 410826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 353956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 393113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 373711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 357213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 391619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 337025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 385044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 342166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 352832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 379358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 324204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 373498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 501495
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 326163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 340881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 318066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 325518
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 284969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 286339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 327435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 283728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 296796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 280044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 312528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 296097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 249510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 283655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 421559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 307837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 263036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 244377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 267801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 270122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 328160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 309503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 285697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 296186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 274389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 222002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 213846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 271436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 242849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 408514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 261157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 227694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 296809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 269447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 293010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 295546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 433564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 359974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 383967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 396421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 366263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 450422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 321040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 259076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Illuminati",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 266651
+    }
+  ]
+}

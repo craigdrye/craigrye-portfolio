@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30999
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34374
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37518
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39491
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38463
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Topology",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23742
+    }
+  ]
+}

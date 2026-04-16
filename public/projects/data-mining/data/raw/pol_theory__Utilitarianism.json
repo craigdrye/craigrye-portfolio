@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Utilitarianism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28802
+    }
+  ]
+}

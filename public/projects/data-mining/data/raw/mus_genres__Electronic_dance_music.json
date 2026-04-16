@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82336
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83622
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76016
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63991
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Electronic_dance_music",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28358
+    }
+  ]
+}

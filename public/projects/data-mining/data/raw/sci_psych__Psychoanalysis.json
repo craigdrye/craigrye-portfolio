@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53756
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32853
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychoanalysis",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20367
+    }
+  ]
+}
