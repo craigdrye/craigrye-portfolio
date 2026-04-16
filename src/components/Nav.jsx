@@ -83,7 +83,6 @@ export default function Nav() {
 
           <li className="nav-link" onClick={() => handleNavClick('#experience')}>Experience</li>
           <li className="nav-link" onClick={() => handleNavClick('#publications')}>Publications</li>
-          <li className="nav-link" onClick={() => handleNavClick('#expertise')}>Expertise</li>
           <li className="nav-link" onClick={() => handleNavClick('#projects')}>Projects</li>
           
           <li>
