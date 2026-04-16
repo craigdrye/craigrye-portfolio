@@ -14,9 +14,7 @@ export default function Hero() {
   return (
     <section className="hero" id="hero">
       <div className="hero-bg-grid" />
-      <div className="hero-glow-1" />
-      <div className="hero-glow-2" />
-
+      
       <div className="container hero-content">
         <div className="hero-text">
           <motion.div
@@ -38,7 +36,7 @@ export default function Hero() {
             custom={1}
           >
             Dr. Craig<br />
-            <span className="gradient-text">D. Rye</span>
+            <span className="hero-surname">D. Rye</span>
           </motion.h1>
 
           <motion.p
@@ -67,15 +65,11 @@ export default function Hero() {
             </div>
             <div className="hero-stat">
               <div className="hero-stat-value">5</div>
-              <div className="hero-stat-label">Lead Publications</div>
-            </div>
-            <div className="hero-stat">
-              <div className="hero-stat-value">60+</div>
-              <div className="hero-stat-label">Reports / Year</div>
+              <div className="hero-stat-label">Lead Pubs</div>
             </div>
             <div className="hero-stat">
               <div className="hero-stat-value">5,000+</div>
-              <div className="hero-stat-label">Clients Reached</div>
+              <div className="hero-stat-label">Clients</div>
             </div>
           </motion.div>
 
@@ -100,66 +94,25 @@ export default function Hero() {
 
         <div className="hero-visual">
           <motion.div
-            className="hero-photo-wrapper"
-            initial={{ opacity: 0, scale: 0.85, y: 20 }}
-            animate={{ opacity: 1, scale: 1, y: 0 }}
+            className="hero-photo-outer"
+            initial={{ opacity: 0, x: 20 }}
+            animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 1, ease: [0.22, 1, 0.36, 1], delay: 0.4 }}
           >
-            {/* Decorative rings behind the photo */}
-            <div className="hero-photo-ring hero-photo-ring-1" />
-            <div className="hero-photo-ring hero-photo-ring-2" />
-            <div className="hero-photo-ring hero-photo-ring-3" />
-
-            {/* Photo container */}
-            <div className="hero-photo-container">
+            <div className="hero-photo-frame">
               <img
                 src="/images/headshot.jpg"
                 alt="Dr. Craig D. Rye"
                 className="hero-photo"
               />
-              <div className="hero-photo-gradient-border" />
             </div>
-
-            {/* Floating institution badges around photo */}
-            <motion.div
-              className="hero-float-badge"
-              style={{ top: '5%', right: '-15%' }}
-              animate={{ y: [0, -8, 0] }}
-              transition={{ duration: 3, repeat: Infinity, ease: 'easeInOut' }}
-            >
-              <span className="hero-float-badge-icon">🚀</span>
-              <span className="hero-float-badge-label">NASA</span>
-            </motion.div>
-
-            <motion.div
-              className="hero-float-badge"
-              style={{ bottom: '15%', right: '-20%' }}
-              animate={{ y: [0, 8, 0] }}
-              transition={{ duration: 3.5, repeat: Infinity, ease: 'easeInOut', delay: 0.5 }}
-            >
-              <span className="hero-float-badge-icon">📊</span>
-              <span className="hero-float-badge-label">Barclays</span>
-            </motion.div>
-
-            <motion.div
-              className="hero-float-badge"
-              style={{ bottom: '5%', left: '-15%' }}
-              animate={{ y: [0, 6, 0] }}
-              transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut', delay: 1 }}
-            >
-              <span className="hero-float-badge-icon">🎓</span>
-              <span className="hero-float-badge-label">MIT</span>
-            </motion.div>
-
-            <motion.div
-              className="hero-float-badge"
-              style={{ top: '10%', left: '-18%' }}
-              animate={{ y: [0, -6, 0] }}
-              transition={{ duration: 3.2, repeat: Infinity, ease: 'easeInOut', delay: 0.7 }}
-            >
-              <span className="hero-float-badge-icon">🌍</span>
-              <span className="hero-float-badge-label">Columbia</span>
-            </motion.div>
+            
+            <div className="hero-institutions-grid">
+              <div className="hero-inst-tag">Barclays</div>
+              <div className="hero-inst-tag">NASA</div>
+              <div className="hero-inst-tag">MIT</div>
+              <div className="hero-inst-tag">Columbia</div>
+            </div>
           </motion.div>
         </div>
       </div>

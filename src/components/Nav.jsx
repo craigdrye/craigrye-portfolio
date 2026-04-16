@@ -1,7 +1,10 @@
 import { useState, useEffect } from 'react'
 import { Menu, X } from 'lucide-react'
+import { useTheme } from '../ThemeContext'
+import ThemeToggle from './ThemeToggle'
 
 export default function Nav() {
+  const { theme } = useTheme()
   const [scrolled, setScrolled] = useState(false)
   const [mobileOpen, setMobileOpen] = useState(false)
 
@@ -39,9 +42,12 @@ export default function Nav() {
             </a>
           </li>
         </ul>
-        <button className="nav-mobile-toggle" onClick={() => setMobileOpen(!mobileOpen)}>
-          {mobileOpen ? <X size={24} /> : <Menu size={24} />}
-        </button>
+        <div className="nav-controls">
+          <ThemeToggle />
+          <button className="nav-mobile-toggle" onClick={() => setMobileOpen(!mobileOpen)}>
+            {mobileOpen ? <X size={24} /> : <Menu size={24} />}
+          </button>
+        </div>
       </div>
     </nav>
   )
