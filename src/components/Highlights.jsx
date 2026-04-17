@@ -19,12 +19,41 @@ export default function Highlights() {
         </motion.div>
 
         <div className="highlights-grid">
-          {/* Antarctica SLR Highlight */}
+          {/* Climate Fear Index Highlight */}
           <motion.div
             initial={{ opacity: 0, x: -20 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.2 }}
+          >
+            <Link to="/dashboards/climate-fear-index" className="highlight-card">
+              <div className="highlight-visual">
+                <img 
+                  src="/projects/climate-fear-index/assets/climate_fear_index_thumb.png" 
+                  alt="Climate Fear Index Data Visualization"
+                  style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                />
+                <div className="highlight-overlay"></div>
+              </div>
+              <div className="highlight-content">
+                <span className="highlight-tag">
+                  <Activity size={12} style={{ marginRight: '4px', verticalAlign: 'middle' }} />
+                  Market Analytics
+                </span>
+                <h3 className="highlight-title">Climate Fear Index</h3>
+                <p className="highlight-desc">
+                  Quantitative monitoring of climate risk sentiment within global capital markets and diversified media sources.
+                </p>
+              </div>
+            </Link>
+          </motion.div>
+
+          {/* Antarctica SLR Highlight */}
+          <motion.div
+            initial={{ opacity: 0, x: 20 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6, delay: 0.3 }}
           >
             <Link to="/dashboards/antarctic-climate-change" className="highlight-card">
               <div className="highlight-visual">
@@ -47,38 +76,6 @@ export default function Highlights() {
                 <h3 className="highlight-title">Antarctic Sea Level Rise</h3>
                 <p className="highlight-desc">
                   Spatiotemporal analysis of Antarctic sea level variations utilizing three decades of satellite altimetry data.
-                </p>
-              </div>
-            </Link>
-          </motion.div>
-
-          {/* Climate Fear Index Highlight */}
-          <motion.div
-            initial={{ opacity: 0, x: 20 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6, delay: 0.3 }}
-          >
-            <Link to="/dashboards/climate-fear-index" className="highlight-card" style={{ background: 'var(--color-bg-elevated)' }}>
-              <div className="highlight-visual" style={{ 
-                background: 'linear-gradient(135deg, #f56565 0%, #e74c3c 100%)',
-                opacity: 0.9 
-              }}>
-                <div style={{
-                  position: 'absolute',
-                  inset: 0,
-                  background: 'repeating-linear-gradient(0deg, transparent, transparent 20px, rgba(255,255,255,0.05) 20px, rgba(255,255,255,0.05) 21px), repeating-linear-gradient(90deg, transparent, transparent 20px, rgba(255,255,255,0.05) 20px, rgba(255,255,255,0.05) 21px)',
-                }}></div>
-                <div className="highlight-overlay"></div>
-              </div>
-              <div className="highlight-content">
-                <span className="highlight-tag">
-                  <Activity size={12} style={{ marginRight: '4px', verticalAlign: 'middle' }} />
-                  Market Analytics
-                </span>
-                <h3 className="highlight-title">Climate Fear Index</h3>
-                <p className="highlight-desc">
-                  Quantitative monitoring of climate risk sentiment within global capital markets and diversified media sources.
                 </p>
               </div>
             </Link>

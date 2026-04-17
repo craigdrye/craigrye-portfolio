@@ -26,8 +26,8 @@ export default function About() {
           <div className="about-text">
             <p>
               I work in climate and sustainability research at Barclays. My main focus is on
-              physical risk — how extreme weather, sea level rise, and long-term climate shifts
-              affect markets — though our work spans energy transition and ESG integration more broadly.
+              physical risk, how extreme weather, sea level rise, and long-term climate shifts
+              affect markets, though our work spans energy transition and ESG integration more broadly.
             </p>
             <p>
               The work covers seasonal climate outlooks, wildfire and hurricane outlooks, and a lot
@@ -37,7 +37,7 @@ export default function About() {
               I'm often happiest when tinkering on a new technical project.
             </p>
             <p>
-              My background is in climate science and energy economics — I spent around a decade at
+              My background is in climate science and energy economics. I spent around a decade at
               NASA, MIT, Columbia, and the University of Surrey before moving into finance. That
               scientific grounding shapes how I approach the work, and the challenge of translating
               the latest science into something decision-useful for investors is what keeps it interesting.
