@@ -60,8 +60,8 @@ export default function Hero() {
             custom={3}
           >
             <div className="hero-stat">
-              <div className="hero-stat-value">10+ Years</div>
-              <div className="hero-stat-label">Research Exp</div>
+              <div className="hero-stat-value">10+</div>
+              <div className="hero-stat-label">YRS IN RESEARCH</div>
             </div>
             <div className="hero-stat">
               <div className="hero-stat-value">459+</div>
