@@ -82,7 +82,7 @@ export default function Nav() {
           </li>
           <li>
             <a 
-              className="nav-link" 
+              className="nav-link nav-link-pints" 
               href="https://luma.com/87drlepd" 
               target="_blank" 
               rel="noopener noreferrer"
