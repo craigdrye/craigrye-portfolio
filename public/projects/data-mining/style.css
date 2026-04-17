@@ -43,12 +43,31 @@ body {
   line-height: 1.5;
   height: 100vh;
   overflow: hidden;
+  position: relative;
+}
+
+/* --- Faint Grid Background (matches homepage) --- */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--color-border) 1px, transparent 1px),
+    linear-gradient(90deg, var(--color-border) 1px, transparent 1px);
+  background-size: 60px 60px;
+  mask-image: radial-gradient(ellipse 80% 60% at 50% 30%, black 30%, transparent 70%);
+  -webkit-mask-image: radial-gradient(ellipse 80% 60% at 50% 30%, black 30%, transparent 70%);
+  opacity: 0.5;
+  pointer-events: none;
+  z-index: 0;
 }
 
 #app {
   display: flex;
   flex-direction: column;
   height: 100vh;
+  position: relative;
+  z-index: 1;
 }
 
 /* Header */
