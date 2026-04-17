@@ -5,7 +5,7 @@ import { Play, Activity } from 'lucide-react'
 
 export default function Highlights() {
   return (
-    <section className="section" id="highlights" style={{ paddingBottom: 0 }}>
+    <section className="section" id="highlights" style={{ paddingTop: 'var(--space-4)', paddingBottom: 0 }}>
       <div className="container">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -14,7 +14,7 @@ export default function Highlights() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="section-title" style={{ marginBottom: 'var(--space-8)' }}>
-            interactive <span className="gradient-text">pages</span>
+            Interactive <span className="gradient-text">pages</span>
           </h2>
         </motion.div>
 
