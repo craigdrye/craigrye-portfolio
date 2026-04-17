@@ -15,14 +15,10 @@ export default function Contact() {
           <h2 className="contact-cta">
             Let's <span className="gradient-text">connect</span>
           </h2>
-          <p className="contact-sub">
-            Open to research collaborations, advisory opportunities, and discussions around
-            climate risk, energy transition, and quantitative finance.
-          </p>
 
           <div className="contact-links">
             <a className="contact-link" href="mailto:craig.d.rye@gmail.com">
-              <Mail size={18} /> craig.d.rye@gmail.com
+              <Mail size={18} /> Email
             </a>
             <a className="contact-link" href="https://linkedin.com/in/cdrye" target="_blank" rel="noopener noreferrer">
               <Link2 size={18} /> LinkedIn
