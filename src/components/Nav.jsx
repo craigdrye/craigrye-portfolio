@@ -80,6 +80,17 @@ export default function Nav() {
               </div>
             )}
           </li>
+          <li>
+            <a 
+              className="nav-link" 
+              href="https://luma.com/87drlepd" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              onClick={() => setMobileOpen(false)}
+            >
+              Climate Pints
+            </a>
+          </li>
 
           <li className="nav-link" onClick={() => handleNavClick('#experience')}>Experience</li>
           <li className="nav-link" onClick={() => handleNavClick('#publications')}>Publications</li>
