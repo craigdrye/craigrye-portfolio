@@ -67,10 +67,6 @@ export default function Hero() {
               <div className="hero-stat-value">5</div>
               <div className="hero-stat-label">Lead Pubs</div>
             </div>
-            <div className="hero-stat">
-              <div className="hero-stat-value">5,000+</div>
-              <div className="hero-stat-label">Clients</div>
-            </div>
           </motion.div>
 
           <motion.div
