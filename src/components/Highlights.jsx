@@ -71,7 +71,7 @@ export default function Highlights() {
               <div className="highlight-content">
                 <span className="highlight-tag">
                   <Play size={12} style={{ marginRight: '4px', verticalAlign: 'middle' }} />
-                  Interactive Simulation
+                  CLIMATE INSIGHTS
                 </span>
                 <h3 className="highlight-title">Antarctic Sea Level Rise</h3>
                 <p className="highlight-desc">

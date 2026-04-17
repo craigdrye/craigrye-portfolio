@@ -18,7 +18,7 @@ const projects = [
     link: '/dashboards/complexity-economics',
   },
   {
-    tag: 'Climate Projections',
+    tag: 'Climate Insights',
     title: 'Antarctic Climate Change',
     description: 'Spatiotemporal analysis of Antarctic sea level variations utilizing three decades of satellite altimetry data.',
     gradient: 'linear-gradient(135deg, #36d6e7 0%, #22d3a7 50%, #1abc9c 100%)',
