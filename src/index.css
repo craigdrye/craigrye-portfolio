@@ -1391,12 +1391,13 @@ img {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: var(--space-8);
-  margin-top: var(--space-12);
+  margin-top: var(--space-6);
+  max-width: 1040px; /* Aligns with the right edge of the profile pic */
 }
 
 .highlight-card {
   position: relative;
-  height: 400px;
+  height: 360px; /* Slightly shorter to match the "smaller" feel */
   border-radius: var(--radius-xl);
   overflow: hidden;
   display: flex;

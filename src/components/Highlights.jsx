@@ -7,18 +7,6 @@ export default function Highlights() {
   return (
     <section className="section" id="highlights" style={{ paddingBottom: 0 }}>
       <div className="container">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.6 }}
-        >
-          <div className="section-label">Selected Research</div>
-          <h2 className="section-title">
-            Interactive <span className="gradient-text">Highlights</span>
-          </h2>
-        </motion.div>
-
         <div className="highlights-grid">
           {/* Antarctica SLR Highlight */}
           <motion.div
