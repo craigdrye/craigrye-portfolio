@@ -64,8 +64,12 @@ export default function Hero() {
               <div className="hero-stat-label">Citations</div>
             </div>
             <div className="hero-stat">
-              <div className="hero-stat-value">5</div>
+              <div className="hero-stat-value">5+</div>
               <div className="hero-stat-label">Lead Pubs</div>
+            </div>
+            <div className="hero-stat">
+              <div className="hero-stat-value">10+ Years</div>
+              <div className="hero-stat-label">Research Exp</div>
             </div>
           </motion.div>
 
