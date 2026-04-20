@@ -72,6 +72,7 @@ export default function Nav() {
                   <Link to="/dashboards/muni-risk-hub" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Municipal Risk Tools</Link>
                   <Link to="/dashboards/climate-fear-index" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Climate Fear Index</Link>
                   <Link to="/dashboards/data-mining" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Data Mining</Link>
+                  <Link to="/dashboards/muni-risk-hub" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>National Municipal Risk Hub</Link>
                 </div>
                 <div className="nav-dropdown-section">
                   <h4 className="nav-dropdown-title">Publications</h4>
