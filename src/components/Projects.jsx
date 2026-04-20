@@ -72,7 +72,7 @@ export default function Projects() {
             Research <span className="gradient-text">Dashboards & Tools</span>
           </h2>
           <p className="section-subtitle" style={{ marginBottom: 'var(--space-12)' }}>
-            Homemade interactive dashboards, connecting climate science, quantitative methods, and financial data.
+            Homegrown interactive dashboards, connecting climate science, quantitative methods, and financial data.
           </p>
         </motion.div>
 
