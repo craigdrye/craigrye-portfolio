@@ -27,24 +27,28 @@ export default function DashboardPage() {
   };
 
   const dashboardsMetadata = {
+    'muni-risk-hub': {
+      title: 'Municipal Risk Tools | Dr. Craig D. Rye',
+      description: 'Dual-layer intelligence engine mapping 189,000+ municipal bonds across 1,400+ U.S. counties, overlaid with FEMA National Risk Index physical hazard scores.'
+    },
     'antarctic-climate-change': {
-      title: 'Antarctic Climate Change & Sea Level Rise | Dr. Craig D. Rye',
+      title: 'Antarctic Climate Dynamics | Dr. Craig D. Rye',
       description: 'Interactive dashboard analyzing Antarctic shelf waters and their impact on global sea level rise. Quantitative research on physical climate risk.'
     },
     'complexity-economics': {
-      title: 'Complexity Economics & Market Dynamics | Dr. Craig D. Rye',
+      title: 'Non-Linear Market Dynamics | Dr. Craig D. Rye',
       description: 'Exploring non-linear systems and market indicators through a complexity lens. Interactive simulations of tipping points and feedback loops.'
     },
     'climate-fear-index': {
-      title: 'Climate Fear Index Analytics | Dr. Craig D. Rye',
+      title: 'Climate Fear Index | Dr. Craig D. Rye',
       description: 'Quantifying market sentiment and societal reactions to climate events using advanced data mining and index construction.'
     },
     'global-temperature-tracker': {
       title: 'Global Temperature Tracker | Dr. Craig D. Rye',
-      description: 'Real-time visualization and analysis of global mean temperature anomalies and long-term climate trends.'
+      description: 'GISTEMP observations vs. CMIP6 model uncertainty with near-term expert predictions. Real-time visualization and analysis of global mean temperature anomalies.'
     },
     'data-mining': {
-      title: 'Institutional Data Mining & Research | Dr. Craig D. Rye',
+      title: 'Data Mining | Dr. Craig D. Rye',
       description: 'Advanced data mining portfolio showcasing quantitative methodologies applied to climate and economic datasets.'
     }
   };

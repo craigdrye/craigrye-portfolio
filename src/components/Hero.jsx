@@ -17,17 +17,6 @@ export default function Hero() {
       
       <div className="container hero-content">
         <div className="hero-text">
-          <motion.div
-            className="hero-badge"
-            initial="hidden"
-            animate="visible"
-            variants={fadeUp}
-            custom={0}
-          >
-            <span className="hero-badge-dot" />
-            #1 Ranked — Institutional Investor Survey 2025
-          </motion.div>
-
           <motion.h1
             className="hero-name"
             initial="hidden"
@@ -35,7 +24,7 @@ export default function Hero() {
             variants={fadeUp}
             custom={1}
           >
-            Dr. Craig<br />
+            Craig<br />
             <span className="hero-surname">D. Rye</span>
           </motion.h1>
 
@@ -46,10 +35,10 @@ export default function Hero() {
             variants={fadeUp}
             custom={2}
           >
-            Climate scientist and quantitative researcher bridging{' '}
-            <strong>physical climate risk</strong>, <strong>energy transition economics</strong>,
-            and <strong>institutional finance</strong>. From modeling Antarctic ice sheets at
-            NASA to wildfire risk on Wall Street.
+            #1-ranked institutional research analyst bridging{' '}
+            <strong>quantitative climate risk</strong>, <strong>energy transition economics</strong>,
+            and <strong>global macro</strong>. A decade of scientific training at NASA, MIT,
+            and Columbia.
           </motion.p>
 
           <motion.div
@@ -60,16 +49,16 @@ export default function Hero() {
             custom={3}
           >
             <div className="hero-stat">
-              <div className="hero-stat-value">10+</div>
-              <div className="hero-stat-label">YRS IN RESEARCH</div>
+              <div className="hero-stat-value">#1</div>
+              <div className="hero-stat-label">II FICC Ranking</div>
             </div>
             <div className="hero-stat">
               <div className="hero-stat-value">459+</div>
               <div className="hero-stat-label">Citations</div>
             </div>
             <div className="hero-stat">
-              <div className="hero-stat-value">5+</div>
-              <div className="hero-stat-label">Lead Pubs</div>
+              <div className="hero-stat-value">8+</div>
+              <div className="hero-stat-label">Leading Pubs (Nature, GRL & Energy Policy)</div>
             </div>
           </motion.div>
 

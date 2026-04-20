@@ -4,32 +4,46 @@ import { Link } from 'react-router-dom'
 
 const projects = [
   {
+    tag: 'Climate Analytics',
+    title: 'Global Temperature Tracker',
+    description: 'GISTEMP observations vs. CMIP6 model uncertainty with near-term expert predictions from Hansen, Hausfather, and the UK Met Office. The data behind seasonal climate outlooks.',
+    media: { type: 'image', src: '/images/projects/global_temp.png' },
+    link: '/dashboards/global-temperature-tracker',
+  },
+  {
+    tag: 'Municipal Finance',
+    title: 'Municipal Risk Tools',
+    description: '47,938 bonds × 1,346 counties × FEMA physical hazard scores. Where climate risk meets fixed income — mapping municipal bond yields against physical risk at institutional scale.',
+    media: { type: 'image', src: '/images/projects/muni_hub.png' },
+    link: '/dashboards/muni-risk-hub',
+  },
+  {
     tag: 'Climate Risk',
     title: 'Climate Fear Index',
-    description: 'Interactive dashboard tracking climate risk sentiment across global markets and media coverage, with live data integration.',
-    gradient: 'linear-gradient(135deg, #f56565 0%, #e74c3c 50%, #c0392b 100%)',
+    description: 'Can we quantify real-time climate risk sentiment across capital markets? This index tracks sentiment shifts across global markets and media coverage with live data integration.',
+    media: { type: 'image', src: '/images/projects/climate_fear.png' },
     link: '/dashboards/climate-fear-index',
   },
   {
+    tag: 'Data Analytics',
+    title: 'Data Mining',
+    description: 'Applied machine learning and statistical pipelines across climate and economic datasets — gradient boosting, ensemble methods, and advanced analytical workflows.',
+    media: { type: 'image', src: '/images/projects/data_mining.png' },
+    link: '/dashboards/data-mining',
+  },
+  {
     tag: 'Complexity Economics',
-    title: 'Complexity Economics Explorer',
-    description: 'Interactive concept explorer featuring attractor, tipping point, and feedback labs for modeling non-linear economic systems in real-time.',
-    gradient: 'linear-gradient(135deg, #9b7bff 0%, #6c5ce7 50%, #5f3dc4 100%)',
+    title: 'Non-Linear Market Dynamics',
+    description: 'Markets are complex adaptive systems. This interactive lab models tipping points, attractors, and feedback loops — the same frameworks used for macro regime-change detection.',
+    media: { type: 'image', src: '/images/projects/complexity.png' },
     link: '/dashboards/complexity-economics',
   },
   {
     tag: 'Climate Insights',
-    title: 'Antarctic Climate Change',
-    description: 'Spatiotemporal analysis of Antarctic sea level variations utilizing three decades of satellite altimetry data.',
-    gradient: 'linear-gradient(135deg, #36d6e7 0%, #22d3a7 50%, #1abc9c 100%)',
+    title: 'Antarctic Climate Dynamics',
+    description: '30 years of satellite altimetry data, animated. The spatiotemporal analysis behind my Nature Geoscience publication on rapid sea-level rise along Antarctic margins.',
+    media: { type: 'video', src: '/projects/antarctic-climate-change/antarctic_ssh_93_24_v4.mp4', poster: '/projects/antarctic-climate-change/assets/preview.jpg' },
     link: '/dashboards/antarctic-climate-change',
-  },
-  {
-    tag: 'Data Analytics',
-    title: 'Data Mining Portfolio',
-    description: 'Quantitative methodologies applied to climate and economic datasets, showcasing advanced analytical pipelines.',
-    gradient: 'linear-gradient(135deg, #638cff 0%, #3498db 50%, #2980b9 100%)',
-    link: '/dashboards/data-mining',
   },
 ]
 
@@ -53,12 +67,12 @@ export default function Projects() {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <div className="section-label">Interactive Work</div>
+          <div className="section-label">Applied Research</div>
           <h2 className="section-title">
             Research <span className="gradient-text">Dashboards & Tools</span>
           </h2>
           <p className="section-subtitle" style={{ marginBottom: 'var(--space-12)' }}>
-            Interactive data visualizations and analytical dashboards built to communicate complex research to diverse audiences.
+            Homemade interactive dashboards, connecting climate science, quantitative methods, and financial data.
           </p>
         </motion.div>
 
@@ -72,46 +86,25 @@ export default function Projects() {
           {projects.map((project) => (
             <motion.div className="project-card glass-card" key={project.title} variants={cardVariants}>
               <Link to={project.link} style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}>
-                <div
-                  className="project-card-preview"
-                  style={{ background: project.gradient }}
-                >
-                  <div style={{
-                    position: 'absolute',
-                    inset: 0,
-                    background: 'repeating-linear-gradient(0deg, transparent, transparent 20px, rgba(255,255,255,0.03) 20px, rgba(255,255,255,0.03) 21px), repeating-linear-gradient(90deg, transparent, transparent 20px, rgba(255,255,255,0.03) 20px, rgba(255,255,255,0.03) 21px)',
-                  }} />
-                  <div style={{
-                    position: 'relative',
-                    zIndex: 1,
-                    display: 'flex',
-                    flexDirection: 'column',
-                    alignItems: 'center',
-                    gap: '8px',
-                  }}>
-                    <div style={{
-                      width: '48px',
-                      height: '48px',
-                      borderRadius: '12px',
-                      background: 'rgba(255,255,255,0.2)',
-                      backdropFilter: 'blur(10px)',
-                      display: 'flex',
-                      alignItems: 'center',
-                      justifyContent: 'center',
-                    }}>
-                      <ExternalLink size={20} color="white" />
+                  <div className="project-card-preview">
+                    {project.media.type === 'video' ? (
+                      <video 
+                        autoPlay loop muted playsInline 
+                        poster={project.media.poster}
+                        style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      >
+                        <source src={project.media.src} type="video/mp4" />
+                      </video>
+                    ) : (
+                      <img 
+                        src={project.media.src} 
+                        alt={project.title} 
+                        style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      />
+                    )}
+                    <div className="project-card-overlay">
                     </div>
-                    <span style={{
-                      fontFamily: 'var(--font-mono)',
-                      fontSize: 'var(--text-xs)',
-                      color: 'rgba(255,255,255,0.7)',
-                      letterSpacing: '0.1em',
-                      textTransform: 'uppercase',
-                    }}>
-                      Interactive Dashboard
-                    </span>
                   </div>
-                </div>
                 <div className="project-card-body">
                   <div className="project-card-tag">{project.tag}</div>
                   <h3 className="project-card-title">{project.title}</h3>

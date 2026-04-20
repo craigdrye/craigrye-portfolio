@@ -25,25 +25,16 @@ export default function About() {
         >
           <div className="about-text">
             <p>
-              I work in climate and sustainability research at Barclays. My main focus is on
-              physical risk, how extreme weather, sea level rise, and long-term climate shifts
-              affect markets, though our work spans energy transition and ESG integration more broadly.
+              I work in climate and sustainability research at Barclays, where I lead the team's climate analytics capability. My work translates frontier climate science, extreme weather systems, sea level dynamics, heat stress projections, into actionable investment frameworks for a broad range of institutional clients.
             </p>
             <p>
-              The work covers seasonal climate outlooks, wildfire and hurricane outlooks, and a lot
-              of collaboration with sector analysts across the bank to think through how climate
-              affects everything from utilities to insurance to municipal bonds. I also run a seminar
-              series bringing external climate experts to talk with our community. Outside of that
-              I'm often happiest when tinkering on a new technical project.
+              The work covers seasonal climate outlooks, wildfire and hurricane outlooks, and a lot of collaboration with sector analysts across the bank to think through how climate affects everything from utilities to insurance to municipal bonds. I also run a seminar series bringing external climate experts to talk with our community.
             </p>
             <p>
-              My background is in climate science and energy economics. I spent around a decade at
-              NASA, MIT, Columbia, and the University of Surrey before moving into finance. That
-              scientific grounding shapes how I approach the work, and the challenge of translating
-              the latest science into something decision-useful for investors is what keeps it interesting.
+              Before finance, I spent a decade at NASA, MIT, Columbia, and the British Antarctic Survey developing global climate models, and building the quantitative foundation that now underpins everything I do on the sell-side.
             </p>
             <p className="about-origin">
-              Based in New York, originally from Nottingham (UK). Always happy to connect.
+              Based in New York, originally from Nottingham, UK.
             </p>
           </div>
 

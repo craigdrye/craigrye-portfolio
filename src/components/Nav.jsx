@@ -67,29 +67,19 @@ export default function Nav() {
             {dropdownOpen && (
               <div className="nav-dropdown">
                 <div className="nav-dropdown-section">
-                  <h4 className="nav-dropdown-title">Publications</h4>
-                  <Link to="/dashboards/antarctic-climate-change" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Antarctic Climate Change</Link>
-                  <Link to="/dashboards/complexity-economics" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Complexity Economics</Link>
+                  <h4 className="nav-dropdown-title">Projects</h4>
+                  <Link to="/dashboards/global-temperature-tracker" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Global Temperature Tracker</Link>
+                  <Link to="/dashboards/muni-risk-hub" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Municipal Risk Tools</Link>
+                  <Link to="/dashboards/climate-fear-index" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Climate Fear Index</Link>
+                  <Link to="/dashboards/data-mining" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Data Mining</Link>
                 </div>
                 <div className="nav-dropdown-section">
-                  <h4 className="nav-dropdown-title">Projects</h4>
-                  <Link to="/dashboards/climate-fear-index" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Climate Fear Index</Link>
-                  <Link to="/dashboards/global-temperature-tracker" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Global Temperature Tracker</Link>
-                  <Link to="/dashboards/data-mining" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Data Mining</Link>
+                  <h4 className="nav-dropdown-title">Publications</h4>
+                  <Link to="/dashboards/complexity-economics" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Non-Linear Market Dynamics</Link>
+                  <Link to="/dashboards/antarctic-climate-change" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Antarctic Climate Dynamics</Link>
                 </div>
               </div>
             )}
-          </li>
-          <li>
-            <a 
-              className="nav-link nav-link-pints" 
-              href="https://luma.com/87drlepd" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              onClick={() => setMobileOpen(false)}
-            >
-              Climate Pints
-            </a>
           </li>
 
           <li className="nav-link" onClick={() => handleNavClick('#experience')}>Experience</li>

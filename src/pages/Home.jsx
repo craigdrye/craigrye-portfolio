@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Hero from '../components/Hero'
-import Highlights from '../components/Highlights'
 import About from '../components/About'
 import Experience from '../components/Experience'
 import Publications from '../components/Publications'
@@ -14,10 +13,9 @@ export default function Home() {
     <main>
       <Hero />
       <About />
-      <Highlights />
+      <Projects />
       <Experience />
       <Publications />
-      <Projects />
       <News />
       <Contact />
     </main>
