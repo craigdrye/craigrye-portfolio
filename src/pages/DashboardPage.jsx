@@ -43,6 +43,10 @@ export default function DashboardPage() {
       title: 'Global Temperature Tracker | Dr. Craig D. Rye',
       description: 'Real-time visualization and analysis of global mean temperature anomalies and long-term climate trends.'
     },
+    'muni-risk-hub': {
+      title: 'National Municipal Risk Hub | Dr. Craig D. Rye',
+      description: 'Dual-layer choropleth intelligence engine mapping 189,000+ municipal bonds across 1,400+ U.S. counties with FEMA National Risk Index physical hazard overlay. Built on 21 years of MSRB trade data.'
+    },
     'data-mining': {
       title: 'Institutional Data Mining & Research | Dr. Craig D. Rye',
       description: 'Advanced data mining portfolio showcasing quantitative methodologies applied to climate and economic datasets.'

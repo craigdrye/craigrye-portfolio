@@ -25,6 +25,13 @@ const projects = [
     link: '/dashboards/antarctic-climate-change',
   },
   {
+    tag: 'Municipal Finance',
+    title: 'National Municipal Risk Hub',
+    description: 'Dual-layer national intelligence engine mapping 189,000+ municipal bonds across 1,400+ U.S. counties, overlaid with FEMA National Risk Index physical hazard scores.',
+    gradient: 'linear-gradient(135deg, #15803d 0%, #16a34a 40%, #b91c1c 100%)',
+    link: '/dashboards/muni-risk-hub',
+  },
+  {
     tag: 'Data Analytics',
     title: 'Data Mining Portfolio',
     description: 'Quantitative methodologies applied to climate and economic datasets, showcasing advanced analytical pipelines.',
