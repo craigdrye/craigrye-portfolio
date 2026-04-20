@@ -76,6 +76,7 @@ export default function Nav() {
                   <Link to="/dashboards/climate-fear-index" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Climate Fear Index</Link>
                   <Link to="/dashboards/global-temperature-tracker" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Global Temperature Tracker</Link>
                   <Link to="/dashboards/data-mining" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Data Mining</Link>
+                  <Link to="/dashboards/muni-risk-hub" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>National Municipal Risk Hub</Link>
                 </div>
               </div>
             )}
