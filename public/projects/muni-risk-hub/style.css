@@ -40,6 +40,25 @@ h1 {
     letter-spacing: -0.025em;
 }
 
+.info-bar {
+    background: rgba(15, 23, 42, 0.5);
+    border-bottom: 1px solid var(--glass-border);
+    padding: 0.75rem 2rem;
+}
+
+.info-bar p {
+    margin: 0;
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    max-width: 1200px;
+}
+
+.info-bar strong {
+    color: var(--accent);
+    font-weight: 600;
+}
+
 .metric-switcher {
     background: var(--card-bg);
     border: 1px solid var(--glass-border);
