@@ -12,6 +12,12 @@
     "description": "Lehman Brothers files for bankruptcy, triggering the 2008 Global Financial Crisis and a decade of 'Great Recession' discourse."
   },
   { 
+    "month": "200811", 
+    "title": "Obama Elected", 
+    "domain": "politics",
+    "description": "Barack Obama becomes the first African American President of the United States, shifting demographics and global political sentiment."
+  },
+  { 
     "month": "200901", 
     "title": "Bitcoin Genesis", 
     "domain": "economics",
@@ -52,6 +58,12 @@
     "title": "Higgs Boson", 
     "domain": "science",
     "description": "CERN announces the discovery of the Higgs boson, a landmark achievement confirming the Standard Model."
+  },
+  { 
+    "month": "201211", 
+    "title": "Obama Re-elected", 
+    "domain": "politics",
+    "description": "Barack Obama secures a second term, ensuring the continuation of the Affordable Care Act and progressive economic policies."
   },
   { 
     "month": "201306", 
