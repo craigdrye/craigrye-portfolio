@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Enzyme",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17645
+    }
+  ]
+}

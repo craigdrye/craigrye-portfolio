@@ -1,0 +1,20 @@
+{
+  "wikipedia": {
+    "status": "complete",
+    "progress": 100
+  },
+  "google": {
+    "status": "complete",
+    "progress": 100
+  },
+  "crossref": {
+    "status": "complete",
+    "progress": 100
+  },
+  "gdelt": {
+    "status": "chilling",
+    "message": "Paused (Rate Limit): HTTP Error 429: Too Many Requests",
+    "progress": -174,
+    "last_updated": "2026-04-21 08:11:01"
+  }
+}

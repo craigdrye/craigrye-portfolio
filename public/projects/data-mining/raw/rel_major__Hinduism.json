@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 275173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 266757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 258482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 232884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 209037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 258808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 238630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 258233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 232559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 222724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 242988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 244073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 209512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 234926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 227313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 216878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 224044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 227974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 269490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 209397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 245762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 280462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 227264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 285402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hinduism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103070
+    }
+  ]
+}

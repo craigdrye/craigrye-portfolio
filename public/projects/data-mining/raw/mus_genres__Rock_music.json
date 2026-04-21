@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65091
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59623
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rock_music",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51113
+    }
+  ]
+}

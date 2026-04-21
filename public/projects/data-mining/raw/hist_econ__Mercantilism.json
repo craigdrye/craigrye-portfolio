@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Mercantilism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18242
+    }
+  ]
+}

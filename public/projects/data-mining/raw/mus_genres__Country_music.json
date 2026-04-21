@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55991
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66949
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64949
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61877
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Country_music",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42312
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79185
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88491
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Vedas",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37484
+    }
+  ]
+}

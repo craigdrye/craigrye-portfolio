@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79374
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65495
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Feudalism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38043
+    }
+  ]
+}

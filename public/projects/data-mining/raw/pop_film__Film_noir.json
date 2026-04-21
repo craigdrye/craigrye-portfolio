@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 616939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65091
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55949
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Film_noir",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38156
+    }
+  ]
+}

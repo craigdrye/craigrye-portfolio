@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16463
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Stem_cell",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11732
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42463
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33364
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41756
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18374
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21364
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18674
+    }
+  ]
+}

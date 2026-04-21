@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Podcast",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29275
+    }
+  ]
+}

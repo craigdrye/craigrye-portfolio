@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 259682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33185
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Moon_landing_conspiracy_theories",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51382
+    }
+  ]
+}

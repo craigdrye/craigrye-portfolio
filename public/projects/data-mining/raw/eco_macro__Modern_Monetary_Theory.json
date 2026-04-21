@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60853
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28518
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25991
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Modern_Monetary_Theory",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10660
+    }
+  ]
+}

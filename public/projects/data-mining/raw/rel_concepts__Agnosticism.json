@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126558
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138491
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74999
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Agnosticism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65650
+    }
+  ]
+}

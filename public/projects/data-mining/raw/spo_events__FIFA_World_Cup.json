@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 438326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 225418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 684325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 402755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 227558
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 301647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 336615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 308567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 290939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 293223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 574153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3933418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3591619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 225678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 527354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 491278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187344
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 264344
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 217345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 296218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 263245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 234022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 334179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 325351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1104897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1306130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 316036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 297455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 358543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 283762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 294274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 407200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 389121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 480502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 289940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 299470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 467953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 496303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7262350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9162518
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 519288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 295870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 327136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 271885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 380202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 530250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 541573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 336662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 631170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 617552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 329254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 399917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 385244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 352794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 310894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 349655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 947599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1069142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 281637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 255711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 249684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 296314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 366872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 255839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 293136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 498218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 333363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 313048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 358200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 428300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 499753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "FIFA_World_Cup",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 284256
+    }
+  ]
+}

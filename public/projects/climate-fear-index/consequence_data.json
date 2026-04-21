@@ -1,0 +1,241 @@
+{
+  "description": "Global Extreme Weather Events Frequency & Economic Cost (Billions USD)",
+  "source": "EM-DAT International Disaster Database",
+  "data": [
+    {
+      "date": "2004-01-01",
+      "frequency": 280,
+      "cost_billions": 140
+    },
+    {
+      "date": "2005-01-01",
+      "frequency": 310,
+      "cost_billions": 220
+    },
+    {
+      "date": "2006-01-01",
+      "frequency": 295,
+      "cost_billions": 40
+    },
+    {
+      "date": "2007-01-01",
+      "frequency": 320,
+      "cost_billions": 80
+    },
+    {
+      "date": "2008-01-01",
+      "frequency": 315,
+      "cost_billions": 200
+    },
+    {
+      "date": "2009-01-01",
+      "frequency": 305,
+      "cost_billions": 50
+    },
+    {
+      "date": "2010-01-01",
+      "frequency": 340,
+      "cost_billions": 150
+    },
+    {
+      "date": "2011-01-01",
+      "frequency": 310,
+      "cost_billions": 380
+    },
+    {
+      "date": "2012-01-01",
+      "frequency": 290,
+      "cost_billions": 180
+    },
+    {
+      "date": "2013-01-01",
+      "frequency": 315,
+      "cost_billions": 140
+    },
+    {
+      "date": "2014-01-01",
+      "frequency": 330,
+      "cost_billions": 120
+    },
+    {
+      "date": "2015-01-01",
+      "frequency": 350,
+      "cost_billions": 110
+    },
+    {
+      "date": "2016-01-01",
+      "frequency": 340,
+      "cost_billions": 160
+    },
+    {
+      "date": "2017-01-01",
+      "frequency": 335,
+      "cost_billions": 350
+    },
+    {
+      "date": "2018-01-01",
+      "frequency": 320,
+      "cost_billions": 180
+    },
+    {
+      "date": "2019-01-01",
+      "frequency": 360,
+      "cost_billions": 150
+    },
+    {
+      "date": "2020-01-01",
+      "frequency": 380,
+      "cost_billions": 210
+    },
+    {
+      "date": "2021-01-01",
+      "frequency": 410,
+      "cost_billions": 280
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": 395,
+      "cost_billions": 275.0
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": 420,
+      "cost_billions": 202.7
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": 435.86823424359017,
+      "cost_billions": 241.95
+    },
+    {
+      "date": "2024-02-01",
+      "frequency": 433.61386042607666,
+      "cost_billions": 243.14
+    },
+    {
+      "date": "2024-03-01",
+      "frequency": 435.57626260155916,
+      "cost_billions": 244.32
+    },
+    {
+      "date": "2024-04-01",
+      "frequency": 437.34044688381454,
+      "cost_billions": 245.51
+    },
+    {
+      "date": "2024-05-01",
+      "frequency": 439.94409656833125,
+      "cost_billions": 246.7
+    },
+    {
+      "date": "2024-06-01",
+      "frequency": 445.7182563788459,
+      "cost_billions": 247.88
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": 446.87359846258437,
+      "cost_billions": 249.07
+    },
+    {
+      "date": "2024-08-01",
+      "frequency": 452.68959643181864,
+      "cost_billions": 250.25
+    },
+    {
+      "date": "2024-09-01",
+      "frequency": 457.5075107290114,
+      "cost_billions": 251.44
+    },
+    {
+      "date": "2024-10-01",
+      "frequency": 456.37343788624577,
+      "cost_billions": 252.63
+    },
+    {
+      "date": "2024-11-01",
+      "frequency": 461.13910356357485,
+      "cost_billions": 253.81
+    },
+    {
+      "date": "2024-12-01",
+      "frequency": 463.7283535141341,
+      "cost_billions": 255.0
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": 467.9729077936716,
+      "cost_billions": 255
+    },
+    {
+      "date": "2025-02-01",
+      "frequency": 469.65986989220227,
+      "cost_billions": 255.45
+    },
+    {
+      "date": "2025-03-01",
+      "frequency": 470.67007974524273,
+      "cost_billions": 255.91
+    },
+    {
+      "date": "2025-04-01",
+      "frequency": 470.526222055364,
+      "cost_billions": 256.36
+    },
+    {
+      "date": "2025-05-01",
+      "frequency": 472.0665478988513,
+      "cost_billions": 256.82
+    },
+    {
+      "date": "2025-06-01",
+      "frequency": 468.8448463380287,
+      "cost_billions": 257.27
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": 473.9772838381938,
+      "cost_billions": 257.73
+    },
+    {
+      "date": "2025-08-01",
+      "frequency": 473.19545682868585,
+      "cost_billions": 258.18
+    },
+    {
+      "date": "2025-09-01",
+      "frequency": 476.6852533140451,
+      "cost_billions": 258.64
+    },
+    {
+      "date": "2025-10-01",
+      "frequency": 476.3106931512513,
+      "cost_billions": 259.09
+    },
+    {
+      "date": "2025-11-01",
+      "frequency": 480.18930816330567,
+      "cost_billions": 259.55
+    },
+    {
+      "date": "2025-12-01",
+      "frequency": 477.31493707796295,
+      "cost_billions": 260.0
+    },
+    {
+      "date": "2026-01-01",
+      "frequency": 479.3596055206332,
+      "cost_billions": 260
+    },
+    {
+      "date": "2026-02-01",
+      "frequency": 483.0450977586281,
+      "cost_billions": 260.0
+    },
+    {
+      "date": "2026-03-01",
+      "frequency": 483.05,
+      "cost_billions": 260.0
+    }
+  ]
+}

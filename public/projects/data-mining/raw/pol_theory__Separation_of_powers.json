@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54364
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47518
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Separation_of_powers",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15788
+    }
+  ]
+}

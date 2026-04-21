@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Dark_energy",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24684
+    }
+  ]
+}

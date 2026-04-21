@@ -1,0 +1,215 @@
+{
+  "description": "Global Institutional Response: Coal Phasedown & Climate Litigation",
+  "data": [
+    {
+      "date": "2004-01-01",
+      "coal_share": 39.8,
+      "litigation_cases": 210
+    },
+    {
+      "date": "2006-01-01",
+      "coal_share": 40.5,
+      "litigation_cases": 250
+    },
+    {
+      "date": "2008-01-01",
+      "coal_share": 41.2,
+      "litigation_cases": 320
+    },
+    {
+      "date": "2010-01-01",
+      "coal_share": 40.8,
+      "litigation_cases": 450
+    },
+    {
+      "date": "2012-01-01",
+      "coal_share": 40.2,
+      "litigation_cases": 580
+    },
+    {
+      "date": "2014-01-01",
+      "coal_share": 39.5,
+      "litigation_cases": 720
+    },
+    {
+      "date": "2015-01-01",
+      "coal_share": 39.1,
+      "litigation_cases": 800
+    },
+    {
+      "date": "2016-01-01",
+      "coal_share": 38.2,
+      "litigation_cases": 850
+    },
+    {
+      "date": "2017-01-01",
+      "coal_share": 37.8,
+      "litigation_cases": 884
+    },
+    {
+      "date": "2018-01-01",
+      "coal_share": 37.5,
+      "litigation_cases": 1050
+    },
+    {
+      "date": "2019-01-01",
+      "coal_share": 36.4,
+      "litigation_cases": 1280
+    },
+    {
+      "date": "2020-01-01",
+      "coal_share": 35.1,
+      "litigation_cases": 1550
+    },
+    {
+      "date": "2021-01-01",
+      "coal_share": 35.8,
+      "litigation_cases": 1820
+    },
+    {
+      "date": "2022-01-01",
+      "coal_share": 35.5,
+      "litigation_cases": 2180
+    },
+    {
+      "date": "2023-01-01",
+      "coal_share": 34.8,
+      "litigation_cases": 2650
+    },
+    {
+      "date": "2024-01-01",
+      "coal_share": 34.36797179209154,
+      "litigation_cases": 3107.289752817106
+    },
+    {
+      "date": "2024-02-01",
+      "coal_share": 34.316804927423995,
+      "litigation_cases": 3117.554669062914
+    },
+    {
+      "date": "2024-03-01",
+      "coal_share": 34.263403338202444,
+      "litigation_cases": 3127.853851280928
+    },
+    {
+      "date": "2024-04-01",
+      "coal_share": 34.19091074495214,
+      "litigation_cases": 3136.0438483784314
+    },
+    {
+      "date": "2024-05-01",
+      "coal_share": 34.12250326892313,
+      "litigation_cases": 3147.0677955173173
+    },
+    {
+      "date": "2024-06-01",
+      "coal_share": 34.05432126945218,
+      "litigation_cases": 3157.124201283009
+    },
+    {
+      "date": "2024-07-01",
+      "coal_share": 34.01206421872819,
+      "litigation_cases": 3165.5889089371744
+    },
+    {
+      "date": "2024-08-01",
+      "coal_share": 33.94217795513907,
+      "litigation_cases": 3174.7048766981748
+    },
+    {
+      "date": "2024-09-01",
+      "coal_share": 33.87542294172194,
+      "litigation_cases": 3186.2111628026346
+    },
+    {
+      "date": "2024-10-01",
+      "coal_share": 33.8468383153553,
+      "litigation_cases": 3195.1881393527783
+    },
+    {
+      "date": "2024-11-01",
+      "coal_share": 33.81259999763302,
+      "litigation_cases": 3205.765598012802
+    },
+    {
+      "date": "2024-12-01",
+      "coal_share": 33.75629526545509,
+      "litigation_cases": 3214.390476389695
+    },
+    {
+      "date": "2025-01-01",
+      "coal_share": 33.72050874262577,
+      "litigation_cases": 3223.902343004438
+    },
+    {
+      "date": "2025-02-01",
+      "coal_share": 33.68885936721054,
+      "litigation_cases": 3235.3259082952013
+    },
+    {
+      "date": "2025-03-01",
+      "coal_share": 33.63791928345792,
+      "litigation_cases": 3246.6949484140514
+    },
+    {
+      "date": "2025-04-01",
+      "coal_share": 33.608893477126855,
+      "litigation_cases": 3255.8653413016327
+    },
+    {
+      "date": "2025-05-01",
+      "coal_share": 33.56174028987812,
+      "litigation_cases": 3264.229334218613
+    },
+    {
+      "date": "2025-06-01",
+      "coal_share": 33.50802853774103,
+      "litigation_cases": 3273.3564864597442
+    },
+    {
+      "date": "2025-07-01",
+      "coal_share": 33.44603513530402,
+      "litigation_cases": 3282.427911530035
+    },
+    {
+      "date": "2025-08-01",
+      "coal_share": 33.41708552288155,
+      "litigation_cases": 3292.7958781335283
+    },
+    {
+      "date": "2025-09-01",
+      "coal_share": 33.36294389371213,
+      "litigation_cases": 3302.7078181245643
+    },
+    {
+      "date": "2025-10-01",
+      "coal_share": 33.32509048983415,
+      "litigation_cases": 3313.174609961549
+    },
+    {
+      "date": "2025-11-01",
+      "coal_share": 33.292575617743,
+      "litigation_cases": 3321.172877742103
+    },
+    {
+      "date": "2025-12-01",
+      "coal_share": 33.24377997837277,
+      "litigation_cases": 3332.8390239344935
+    },
+    {
+      "date": "2026-01-01",
+      "coal_share": 33.185400265577606,
+      "litigation_cases": 3343.176849578157
+    },
+    {
+      "date": "2026-02-01",
+      "coal_share": 33.1449050939153,
+      "litigation_cases": 3354.523944842624
+    },
+    {
+      "date": "2026-03-01",
+      "coal_share": 33.14,
+      "litigation_cases": 3354.52
+    }
+  ]
+}

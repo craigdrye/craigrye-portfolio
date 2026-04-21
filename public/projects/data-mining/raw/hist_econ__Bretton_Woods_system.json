@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35853
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48185
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bretton_Woods_system",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37135
+    }
+  ]
+}

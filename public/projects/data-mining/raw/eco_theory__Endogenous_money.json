@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1558
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1364
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Endogenous_money",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 722
+    }
+  ]
+}

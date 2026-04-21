@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 256575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 213788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252336
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 255128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142558
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 209683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144623
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Basketball",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101312
+    }
+  ]
+}

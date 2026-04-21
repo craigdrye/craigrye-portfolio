@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27463
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Neoconservatism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21107
+    }
+  ]
+}

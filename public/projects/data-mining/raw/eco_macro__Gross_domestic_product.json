@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 217449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 216743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 225748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 225443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214185
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 216154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 244810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 209618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 213303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 259326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180756
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Gross_domestic_product",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90066
+    }
+  ]
+}

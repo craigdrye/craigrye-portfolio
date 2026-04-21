@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 246039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 224885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 329519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 243236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111495
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123779
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202463
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 314251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 216430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 386298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141364
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 271007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 285174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 260249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 343559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 213880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 306610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 249916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 268820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 246304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 449552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 306340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128853
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 258850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 261480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 427480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 264521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 290168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 316823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 298160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 585640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 380339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 270545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 275886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 362847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 286842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 294040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 232705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 232314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 276031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 360997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "National_Football_League",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233307
+    }
+  ]
+}

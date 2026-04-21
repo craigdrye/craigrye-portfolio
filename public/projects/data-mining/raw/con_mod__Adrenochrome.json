@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24231
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 593900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 767360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 328366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 444312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 905371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 522290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 289605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 237590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 209232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 439623
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Adrenochrome",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355063
+    }
+  ]
+}

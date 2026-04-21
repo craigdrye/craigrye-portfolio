@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23016
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37091
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13945
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Catalysis",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6925
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 476204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56912
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Graphene",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19028
+    }
+  ]
+}

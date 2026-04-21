@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cheminformatics",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 955
+    }
+  ]
+}

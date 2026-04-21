@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 507626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 506295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 444950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 397276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 383786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 429936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 519862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 513738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 478122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 411854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 397597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 370473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 337444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 365164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 333238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 491080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 461076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 390480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 390085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 375563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 324508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 387417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 375816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 290535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 275504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 280063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 450238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 300401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 300400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 275531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 264888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 335733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 360109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 301175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 274675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 273988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 240610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 288046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 249722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 386729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 346543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 320734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 382547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 448566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 783149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 332506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 288459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 304684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 420879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 737985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 584320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 384223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 396860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 389775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 349452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 324527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 303188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 399863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 418918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 382703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 395320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 344315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 354595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 373017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 301728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 263097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 242228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 239840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 313666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 282996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 321882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 470043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 467652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 379391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 537973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 895949
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 599114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 449579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 390797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 325171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 446639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 456872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 464861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 401889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 407609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 364533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 355045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 428247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 396173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 348163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 318738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 310235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 377274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 322896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 318883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 303278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 293557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 249278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 265988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 292108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 301067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 276022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 266335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 270100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 319590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 270484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 268760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 267924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 237321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 274738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 245382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 250245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 290841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 277740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 316347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Breaking_Bad",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 244829
+    }
+  ]
+}

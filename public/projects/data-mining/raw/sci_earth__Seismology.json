@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9344
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4374
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Seismology",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3040
+    }
+  ]
+}

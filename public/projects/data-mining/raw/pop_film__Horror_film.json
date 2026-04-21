@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57949
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70999
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70065
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48853
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46880
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Horror_film",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39188
+    }
+  ]
+}

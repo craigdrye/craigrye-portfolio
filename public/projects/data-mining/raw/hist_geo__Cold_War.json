@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 275689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 291433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 339709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 303841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 307804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 347070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 348402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 363304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 408330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 244355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 307597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 333505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 299402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 313592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 291591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 339801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 394430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 393327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 227450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 245699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 261839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 362176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 362189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 321666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 283679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 277380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 286627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 217272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 275356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 290647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 323216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 268985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 277806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 272379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 293457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 246925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 240731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 261584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 654514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 617462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 268594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 224751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195572
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 259561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 240663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 263587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 245563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 217561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 216792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 257250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 260894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 205798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 208689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165518
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Cold_War",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157292
+    }
+  ]
+}

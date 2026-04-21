@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41012
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Reality_television",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23691
+    }
+  ]
+}

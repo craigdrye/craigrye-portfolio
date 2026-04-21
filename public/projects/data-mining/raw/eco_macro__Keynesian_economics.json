@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50842
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34944
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33436
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Keynesian_economics",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26256
+    }
+  ]
+}

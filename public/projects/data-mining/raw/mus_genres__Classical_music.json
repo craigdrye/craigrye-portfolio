@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58263
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26532
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Classical_music",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23773
+    }
+  ]
+}

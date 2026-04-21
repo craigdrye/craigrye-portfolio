@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2773
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2178805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 734347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 262523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 815791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Wimbledon_Championships",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65277
+    }
+  ]
+}

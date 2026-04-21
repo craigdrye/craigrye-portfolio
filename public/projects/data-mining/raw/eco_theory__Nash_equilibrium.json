@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29558
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24944
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Nash_equilibrium",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19942
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "description": "Comparative Search Interest: Climate vs Weather vs Passive House vs Vegan",
+  "data": [
+    {
+      "date": "2004-01-01",
+      "weather": 85,
+      "climate": 5,
+      "passive_house": 2,
+      "vegan": 4,
+      "plant_based": 1
+    },
+    {
+      "date": "2006-01-01",
+      "weather": 88,
+      "climate": 10,
+      "passive_house": 3,
+      "vegan": 5,
+      "plant_based": 2
+    },
+    {
+      "date": "2008-01-01",
+      "weather": 90,
+      "climate": 12,
+      "passive_house": 2,
+      "vegan": 6,
+      "plant_based": 2
+    },
+    {
+      "date": "2010-01-01",
+      "weather": 88,
+      "climate": 10,
+      "passive_house": 4,
+      "vegan": 8,
+      "plant_based": 3
+    },
+    {
+      "date": "2012-01-01",
+      "weather": 92,
+      "climate": 12,
+      "passive_house": 4,
+      "vegan": 12,
+      "plant_based": 4
+    },
+    {
+      "date": "2014-01-01",
+      "weather": 87,
+      "climate": 15,
+      "passive_house": 5,
+      "vegan": 20,
+      "plant_based": 6
+    },
+    {
+      "date": "2015-01-01",
+      "weather": 90,
+      "climate": 22,
+      "passive_house": 5,
+      "vegan": 25,
+      "plant_based": 8
+    },
+    {
+      "date": "2016-01-01",
+      "weather": 95,
+      "climate": 18,
+      "passive_house": 6,
+      "vegan": 45,
+      "plant_based": 12
+    },
+    {
+      "date": "2017-01-01",
+      "weather": 93,
+      "climate": 22,
+      "passive_house": 5,
+      "vegan": 55,
+      "plant_based": 18
+    },
+    {
+      "date": "2018-01-01",
+      "weather": 98,
+      "climate": 28,
+      "passive_house": 6,
+      "vegan": 75,
+      "plant_based": 32
+    },
+    {
+      "date": "2019-01-01",
+      "weather": 94,
+      "climate": 65,
+      "passive_house": 7,
+      "vegan": 92,
+      "plant_based": 55
+    },
+    {
+      "date": "2020-01-01",
+      "weather": 90,
+      "climate": 45,
+      "passive_house": 6,
+      "vegan": 100,
+      "plant_based": 62
+    },
+    {
+      "date": "2021-01-01",
+      "weather": 96,
+      "climate": 55,
+      "passive_house": 7,
+      "vegan": 88,
+      "plant_based": 58
+    },
+    {
+      "date": "2022-01-01",
+      "weather": 98,
+      "climate": 60,
+      "passive_house": 8,
+      "vegan": 82,
+      "plant_based": 62
+    },
+    {
+      "date": "2023-01-01",
+      "weather": 100,
+      "climate": 75,
+      "passive_house": 12,
+      "vegan": 78,
+      "plant_based": 65
+    },
+    {
+      "date": "2024-01-01",
+      "weather": 97.18655558951156,
+      "climate": 86.10442267591006,
+      "passive_house": 15,
+      "vegan": 72.40299466826013,
+      "plant_based": 68
+    },
+    {
+      "date": "2024-02-01",
+      "climate": 87.83843843564674,
+      "vegan": 73.393290961687,
+      "weather": 96.74607933663067
+    },
+    {
+      "date": "2024-03-01",
+      "climate": 86.14346423240762,
+      "vegan": 72.96320717596997,
+      "weather": 97.57964339273664
+    },
+    {
+      "date": "2024-04-01",
+      "climate": 85.63599941366067,
+      "vegan": 72.83402436730326,
+      "weather": 97.60326456610497
+    },
+    {
+      "date": "2024-05-01",
+      "climate": 86.65921849647374,
+      "vegan": 73.85074408692051,
+      "weather": 97.19925823029797
+    },
+    {
+      "date": "2024-06-01",
+      "climate": 88.36209924911265,
+      "vegan": 73.0683949998676,
+      "weather": 96.91200014642097
+    },
+    {
+      "date": "2024-07-01",
+      "climate": 86.91550129157942,
+      "vegan": 73.47718964107202,
+      "weather": 96.52685809649644
+    },
+    {
+      "date": "2024-08-01",
+      "climate": 88.45660168745542,
+      "vegan": 72.58091852527777,
+      "weather": 97.15286423753437
+    },
+    {
+      "date": "2024-09-01",
+      "climate": 87.26129723884787,
+      "vegan": 71.8007205724051,
+      "weather": 97.13642555667185
+    },
+    {
+      "date": "2024-10-01",
+      "climate": 88.0921395987922,
+      "vegan": 71.16600648811516,
+      "weather": 97.94483928756097
+    },
+    {
+      "date": "2024-11-01",
+      "climate": 87.686663342817,
+      "vegan": 72.11443540159436,
+      "weather": 98.70163887982392
+    },
+    {
+      "date": "2024-12-01",
+      "climate": 88.91933213604023,
+      "vegan": 72.74398396392343,
+      "weather": 98.36964497239245
+    },
+    {
+      "date": "2025-01-01",
+      "climate": 87.64271813554097,
+      "vegan": 73.79644761677648,
+      "weather": 97.6386163567982
+    },
+    {
+      "date": "2025-02-01",
+      "climate": 88.1890767680509,
+      "vegan": 74.47538698841386,
+      "weather": 97.94739299781764
+    },
+    {
+      "date": "2025-03-01",
+      "climate": 90.19566789353581,
+      "vegan": 73.8664216527098,
+      "weather": 97.5768090502522
+    },
+    {
+      "date": "2025-04-01",
+      "climate": 90.90226629785562,
+      "vegan": 73.42041016018554,
+      "weather": 98.56812554740827
+    },
+    {
+      "date": "2025-05-01",
+      "climate": 90.62603526989338,
+      "vegan": 74.21461414952222,
+      "weather": 99.13978446442233
+    },
+    {
+      "date": "2025-06-01",
+      "climate": 89.6674835922149,
+      "vegan": 74.6510337673831,
+      "weather": 99.97294576873817
+    },
+    {
+      "date": "2025-07-01",
+      "climate": 91.82692984466372,
+      "vegan": 74.35850028563301,
+      "weather": 99.96384616599131
+    },
+    {
+      "date": "2025-08-01",
+      "climate": 90.84930212557516,
+      "vegan": 73.7219339090688,
+      "weather": 100.53673922820059
+    },
+    {
+      "date": "2025-09-01",
+      "climate": 92.24333832727105,
+      "vegan": 73.40138447362521,
+      "weather": 99.5642247170603
+    },
+    {
+      "date": "2025-10-01",
+      "climate": 92.12020703300458,
+      "vegan": 74.28902770834961,
+      "weather": 99.82639999719872
+    },
+    {
+      "date": "2025-11-01",
+      "climate": 92.32625600633465,
+      "vegan": 74.61735043585733,
+      "weather": 100.09920935697384
+    },
+    {
+      "date": "2025-12-01",
+      "climate": 91.42081241652079,
+      "vegan": 74.48627136504199,
+      "weather": 99.32082238955809
+    },
+    {
+      "date": "2026-01-01",
+      "climate": 89.85082192140416,
+      "vegan": 74.44574511193767,
+      "weather": 99.95840964916408
+    },
+    {
+      "date": "2026-02-01",
+      "climate": 90.06140328210792,
+      "vegan": 73.72521374827899,
+      "weather": 99.63155925007442
+    },
+    {
+      "date": "2026-03-01",
+      "climate": 90.06,
+      "vegan": 73.73,
+      "weather": 99.63
+    }
+  ]
+}

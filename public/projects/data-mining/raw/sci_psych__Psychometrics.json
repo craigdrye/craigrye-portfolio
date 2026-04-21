@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19344
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17350
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Psychometrics",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7079
+    }
+  ]
+}

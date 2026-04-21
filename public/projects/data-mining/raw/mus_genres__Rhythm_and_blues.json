@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53749
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70622
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52853
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56930
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Rhythm_and_blues",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33106
+    }
+  ]
+}

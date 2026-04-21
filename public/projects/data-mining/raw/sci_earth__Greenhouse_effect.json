@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130035
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29744
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Greenhouse_effect",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13955
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41818
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52415
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Soap_opera",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27094
+    }
+  ]
+}

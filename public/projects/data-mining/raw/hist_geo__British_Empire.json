@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 213104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 222039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 188580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 228115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 224675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 216747
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 222459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 204362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 231428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 219285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 520426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 209845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 200162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 220036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 196593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143379
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156559
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "British_Empire",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133100
+    }
+  ]
+}

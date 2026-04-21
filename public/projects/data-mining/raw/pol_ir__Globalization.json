@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 140664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141594
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162024
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63931
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45051
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Globalization",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24600
+    }
+  ]
+}

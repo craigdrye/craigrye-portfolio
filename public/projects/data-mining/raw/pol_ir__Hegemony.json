@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31039
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Hegemony",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23040
+    }
+  ]
+}

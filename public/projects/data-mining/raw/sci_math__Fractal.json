@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60501
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56945
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56987
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51336
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49945
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38196
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Fractal",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30176
+    }
+  ]
+}

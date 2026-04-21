@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48277
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45469
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45706
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36344
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Roaring_Twenties",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31443
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5532
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6994
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6920
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6231
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3983
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Annales_school",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3683
+    }
+  ]
+}

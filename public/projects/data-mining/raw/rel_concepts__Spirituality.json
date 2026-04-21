@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30495
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35058
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28818
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27807
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23939
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16625
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spirituality",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14082
+    }
+  ]
+}

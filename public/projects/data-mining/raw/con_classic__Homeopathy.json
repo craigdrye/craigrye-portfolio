@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 100479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123182
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 102135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82378
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73828
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90798
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80094
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69823
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44157
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36008
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Homeopathy",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34054
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28668
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30707
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33934
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32132
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37770
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29347
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16810
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20224
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Quantitative_easing",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13736
+    }
+  ]
+}

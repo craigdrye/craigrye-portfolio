@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103495
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 156127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119183
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 138610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 190911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 237575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 213524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215714
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230623
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 318768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 296838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 238161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 224388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 588636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 434979
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 315393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 312822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 259236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 245888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169168
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 154451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 191450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134669
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 184445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142339
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Spotify",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106490
+    }
+  ]
+}

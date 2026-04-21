@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10152
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9909
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10610
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10336
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7978
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7247
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7620
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7542
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7522
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Drum_machine",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7043
+    }
+  ]
+}

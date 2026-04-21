@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 318693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1902982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1077545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 218701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 273087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 179605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 142437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 170637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 311786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 270010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 165683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 139788
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 153655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 135673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1596043
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 158122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183142
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 173632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 212426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 629742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 507879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 256067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 183486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 172705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143134
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163091
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 131257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 244048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 146466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 141708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 162139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 151013
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 186602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 214420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 182663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 175733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 180666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 185312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 194117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 308718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 233850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 157198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 202887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 241394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 148053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 161242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 160525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 159481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 166579
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 171330
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Black_hole",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152360
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24695
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21548
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29364
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22708
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31461
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23499
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22700
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25693
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28530
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24861
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23100
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106016
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18815
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Anthropocene",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15664
+    }
+  ]
+}

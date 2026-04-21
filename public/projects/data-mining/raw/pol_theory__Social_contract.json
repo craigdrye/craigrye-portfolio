@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75454
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46601
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47923
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44374
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77527
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62758
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52349
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56491
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41153
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39629
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43080
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37876
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34359
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40037
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34273
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31802
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27197
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29510
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28852
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26905
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19951
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Social_contract",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16194
+    }
+  ]
+}

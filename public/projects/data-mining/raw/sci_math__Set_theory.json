@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31322
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33713
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35139
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36205
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39006
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33170
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38217
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32829
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37902
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35169
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31691
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27814
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37505
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28898
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26059
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26473
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25458
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31859
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27165
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31990
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34009
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27825
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28884
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Set_theory",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19072
+    }
+  ]
+}

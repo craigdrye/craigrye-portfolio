@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21031
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17096
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21878
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18783
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17536
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15953
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14020
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12719
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31688
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15409
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10840
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12730
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13818
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14636
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16324
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7925
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Melody",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6645
+    }
+  ]
+}

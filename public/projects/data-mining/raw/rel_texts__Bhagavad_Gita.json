@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106266
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103392
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97085
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115068
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107949
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107547
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97084
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 114023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122450
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95647
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88756
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105860
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 144649
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 203805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 181493
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 147075
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 133194
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120487
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 134076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 125781
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115921
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 124448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 108725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117771
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127294
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 122327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 164847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 169763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 152754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 137924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150179
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 325207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 223397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 155515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 149604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 167419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 150369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 163113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 136334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119557
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115993
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112033
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95077
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 94754
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 104396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86732
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83972
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Bhagavad_Gita",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69151
+    }
+  ]
+}

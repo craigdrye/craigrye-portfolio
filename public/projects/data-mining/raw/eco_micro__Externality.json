@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21154
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28576
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22947
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16308
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21956
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20703
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13926
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17756
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16053
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8655
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10480
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7569
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8239
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7173
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5163
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4748
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Externality",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4501
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26560
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24343
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25502
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24447
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21535
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21681
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23307
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21245
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36767
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19133
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19785
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21611
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19963
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23991
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33780
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21551
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24331
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19052
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34164
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34919
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29325
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26259
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29317
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26627
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19015
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15869
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15911
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Massively_multiplayer_online_role-playing_game",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11748
+    }
+  ]
+}

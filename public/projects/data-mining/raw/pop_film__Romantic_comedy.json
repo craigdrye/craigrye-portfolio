@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7041
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7818
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8258
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6345
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6562
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24731
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24960
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35312
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32281
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46214
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68816
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25907
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23971
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57626
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70145
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62591
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62049
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50658
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40300
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35553
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24256
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26532
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27419
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26034
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22986
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24575
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22435
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22793
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Romantic_comedy",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18374
+    }
+  ]
+}

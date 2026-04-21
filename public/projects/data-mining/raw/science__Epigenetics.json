@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47452
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51318
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60604
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78267
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61586
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47332
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60967
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43580
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42464
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43027
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47735
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36868
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33004
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37050
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33652
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28999
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37352
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30432
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32000
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38525
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43047
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38645
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48091
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37529
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30890
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38550
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27914
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28313
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Epigenetics",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23932
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51430
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48670
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50503
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 50014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55616
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44512
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47541
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44284
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43554
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33833
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32689
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46701
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28504
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30483
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26916
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30304
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33199
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31885
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31089
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34619
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27850
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30376
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27519
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28158
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33474
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29991
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23423
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19635
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20697
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126891
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26244
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21734
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Egalitarianism",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22717
+    }
+  ]
+}

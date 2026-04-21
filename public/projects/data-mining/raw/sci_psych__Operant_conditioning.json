@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36687
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 47428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57477
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32837
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29190
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51928
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56301
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 45574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29069
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43518
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43320
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49944
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41918
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61588
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 49032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32950
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37457
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39213
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32086
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34538
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33098
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32162
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28671
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26777
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22443
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18940
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19246
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23127
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29088
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20804
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19186
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15977
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23759
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32820
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21729
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12813
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10933
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Operant_conditioning",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11217
+    }
+  ]
+}

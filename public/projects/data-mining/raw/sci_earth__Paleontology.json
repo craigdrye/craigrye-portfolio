@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33516
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 46507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72763
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 42275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 48552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33011
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34796
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27917
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31955
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27938
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36881
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35614
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35250
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34268
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34674
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34634
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 35774
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31808
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27385
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29631
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26184
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31262
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20836
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28242
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22583
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 26433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23675
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22289
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22561
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21922
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19440
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19138
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23137
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23602
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20648
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21954
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21227
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23297
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23253
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25121
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22872
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 19395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 30849
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16865
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18038
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12513
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Paleontology",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12096
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+bucket,topic
+sci_bio,CRISPR gene editing
+sci_bio,Polymerase chain reaction
+sci_bio,mRNA vaccine
+sci_bio,Gene therapy
+sci_bio,Epigenetics
+sci_bio,Phylogenetics
+sci_bio,Natural selection
+sci_bio,Biodiversity
+sci_bio,Stem cell
+sci_bio,Immunotherapy
+sci_phys,Quantum entanglement
+sci_phys,Quantum superposition
+sci_phys,Dark matter
+sci_phys,General relativity
+sci_phys,Spectroscopy
+sci_phys,Black hole
+sci_phys,Big Bang
+sci_phys,String theory
+sci_phys,Standard Model
+sci_phys,Dark energy
+sci_chem,Catalysis
+sci_chem,Supramolecular chemistry
+sci_chem,Graphene
+sci_chem,Green chemistry
+sci_chem,Stoichiometry
+sci_chem,Crystallography
+sci_chem,Polymer
+sci_chem,Cheminformatics
+sci_chem,Enzyme
+sci_chem,Isotope
+sci_psych,Cognitive dissonance
+sci_psych,Behaviorism
+sci_psych,Neuroplasticity
+sci_psych,Attachment theory
+sci_psych,Psychometrics
+sci_psych,Psychoanalysis
+sci_psych,Classical conditioning
+sci_psych,Placebo
+sci_psych,Myers-Briggs Type Indicator
+sci_psych,Operant conditioning
+sci_math,Chaos theory
+sci_math,Fractal
+sci_math,Topology
+sci_math,Prime number theorem
+sci_math,Game theory
+sci_math,Riemann hypothesis
+sci_math,Set theory
+sci_math,Calculus
+sci_math,Linear algebra
+sci_math,Bayesian inference
+sci_earth,Plate tectonics
+sci_earth,Greenhouse effect
+sci_earth,Ocean acidification
+sci_earth,Climate change
+sci_earth,Geomorphology
+sci_earth,Meteorology
+sci_earth,Paleontology
+sci_earth,Seismology
+sci_earth,Anthropocene
+sci_earth,Ozone depletion
+eco_macro,Quantitative easing
+eco_macro,Purchasing power parity
+eco_macro,Inflation
+eco_macro,Fiscal policy
+eco_macro,Modern Monetary Theory
+eco_macro,Gross domestic product
+eco_macro,Monetary policy
+eco_macro,Keynesian economics
+eco_macro,Supply-side economics
+eco_macro,Interest rate
+eco_micro,Elasticity (economics)
+eco_micro,Marginal utility
+eco_micro,Externality
+eco_micro,Prospect theory
+eco_micro,Pareto efficiency
+eco_micro,Opportunity cost
+eco_micro,Supply and demand
+eco_micro,Monopoly
+eco_micro,Oligopoly
+eco_theory,Nash equilibrium
+eco_theory,Comparative advantage
+eco_theory,Effective demand
+eco_theory,Endogenous money
+eco_theory,Transaction cost
+eco_theory,Property rights
+eco_theory,Neoclassical economics
+eco_theory,Austrian School
+eco_theory,Marxian economics
+eco_theory,Behavioral economics
+hist_econ,Industrial Revolution
+hist_econ,Great Depression
+hist_econ,Silk Road
+hist_econ,Dutch East India Company
+hist_econ,Roaring Twenties
+hist_econ,Tulip mania
+hist_econ,Bretton Woods system
+hist_econ,Feudalism
+hist_econ,Mercantilism
+hist_econ,Gold standard
+hist_geo,Cold War
+hist_geo,French Revolution
+hist_geo,Pax Romana
+hist_geo,Renaissance
+hist_geo,British Empire
+hist_geo,World War I
+hist_geo,World War II
+hist_geo,Roman Empire
+hist_geo,Mongol Empire
+hist_geo,Byzantine Empire
+hist_theory,Historical materialism
+hist_theory,Great Man theory
+hist_theory,Historiography
+hist_theory,Postmodernism
+hist_theory,Marxist historiography
+hist_theory,Whig history
+hist_theory,Annales school
+hist_theory,Orientalism
+hist_theory,Revisionism (history)
+hist_theory,Feminist history
+pol_ir,Realism (international relations)
+pol_ir,Liberalism (international relations)
+pol_ir,Constructivism (international relations)
+pol_ir,Hegemony
+pol_ir,Globalization
+pol_ir,Soft power
+pol_ir,Geopolitics
+pol_ir,Deterrence theory
+pol_ir,Neoconservatism
+pol_ir,Neoliberalism (international relations)
+pol_theory,Social contract
+pol_theory,Separation of powers
+pol_theory,Totalitarianism
+pol_theory,Democracy
+pol_theory,Communitarianism
+pol_theory,Libertarianism
+pol_theory,Egalitarianism
+pol_theory,Utilitarianism
+pol_theory,Fascism
+pol_theory,Anarchism
+pol_comp,Democratization
+pol_comp,Parliamentary system
+pol_comp,Authoritarianism
+pol_comp,Presidential system
+pol_comp,Proportional representation
+pol_comp,Electoral College (United States)
+pol_comp,Gerrymandering
+pol_comp,Federalism
+pol_comp,Populism
+pol_comp,Kleptocracy
+con_mod,QAnon
+con_mod,Great Replacement
+con_mod,Deep state
+con_mod,New World Order
+con_mod,Stop the Steal
+con_mod,Pizzagate conspiracy theory
+con_mod,15-minute city
+con_mod,Adrenochrome
+con_mod,Dead Internet theory
+con_mod,Agenda 21
+con_tech,Chemtrail conspiracy theory
+con_tech,5G conspiracy theory
+con_tech,HAARP
+con_tech,Vaccine hesitancy
+con_tech,Havana syndrome
+con_tech,Project Blue Beam
+con_tech,RFID
+con_tech,Targeted individual
+con_tech,Microchip implant (human)
+con_classic,Ancient astronauts
+con_classic,Astrology
+con_classic,Flat Earth
+con_classic,Homeopathy
+con_classic,Reptilian conspiracy theory
+con_classic,Anti-vaccinationism
+con_classic,Illuminati
+con_classic,Freemasonry
+con_classic,Moon landing conspiracy theories
+con_classic,Bermuda Triangle
+pop_film,Marvel Cinematic Universe
+pop_film,Star Wars
+pop_film,Harry Potter
+pop_film,Anime
+pop_film,Film noir
+pop_film,Romantic comedy
+pop_film,Horror film
+pop_film,Science fiction film
+pop_tv,Game of Thrones
+pop_tv,Breaking Bad
+pop_tv,Stranger Things
+pop_tv,Reality television
+pop_tv,Sitcom
+pop_tv,True crime
+pop_tv,Soap opera
+pop_tv,Streaming media
+pop_gaming,Video game console
+pop_gaming,Esports
+pop_gaming,Minecraft
+pop_gaming,Grand Theft Auto V
+pop_gaming,Roblox
+pop_gaming,Role-playing video game
+pop_gaming,First-person shooter
+pop_gaming,Massively multiplayer online role-playing game
+rel_major,Christianity
+rel_major,Islam
+rel_major,Hinduism
+rel_major,Buddhism
+rel_major,Judaism
+rel_major,Sikhism
+rel_major,Daoism
+rel_major,Shinto
+rel_texts,Bible
+rel_texts,Quran
+rel_texts,Torah
+rel_texts,Bhagavad Gita
+rel_texts,Tripitaka
+rel_texts,Book of Mormon
+rel_texts,Vedas
+rel_texts,Upanishads
+rel_concepts,Karma
+rel_concepts,Reincarnation
+rel_concepts,Salvation
+rel_concepts,Sin
+rel_concepts,Atheism
+rel_concepts,Agnosticism
+rel_concepts,Secularism
+rel_concepts,Spirituality
+spo_global,Association football
+spo_global,Basketball
+spo_global,Cricket
+spo_global,Tennis
+spo_global,Golf
+spo_global,Rugby union
+spo_global,Volleyball
+spo_global,Athletics (sport)
+spo_us,American football
+spo_us,Baseball
+spo_us,Ice hockey
+spo_us,National Football League
+spo_us,Major League Baseball
+spo_us,National Basketball Association
+spo_us,National Hockey League
+spo_us,College football
+spo_events,Olympic Games
+spo_events,FIFA World Cup
+spo_events,Super Bowl
+spo_events,Tour de France
+spo_events,Wimbledon Championships
+spo_events,UEFA Champions League
+spo_events,Cricket World Cup
+spo_events,Summer Olympic Games
+mus_genres,Pop music
+mus_genres,Hip hop music
+mus_genres,Rock music
+mus_genres,Electronic dance music
+mus_genres,Country music
+mus_genres,Jazz
+mus_genres,Classical music
+mus_genres,Rhythm and blues
+mus_tech,Synthesizer
+mus_tech,Auto-Tune
+mus_tech,Spotify
+mus_tech,Vinyl record
+mus_tech,Electric guitar
+mus_tech,Drum machine
+mus_tech,Podcast
+mus_tech,Streaming media
+mus_theory,Chord progression
+mus_theory,Syncopation
+mus_theory,Polyphony
+mus_theory,Harmony
+mus_theory,Melody
+mus_theory,Time signature
+mus_theory,Scale (music)
+mus_theory,Counterpoint

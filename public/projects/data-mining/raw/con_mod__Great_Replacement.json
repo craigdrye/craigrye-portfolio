@@ -1,0 +1,967 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 490
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 407
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1448
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2653
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 811
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 738
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2566
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8552
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17702
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15175
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14965
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17342
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 20982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18389
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23146
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 22429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23760
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 23638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 18724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 25155
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 96492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 24082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34046
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 33751
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 27873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38582
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 494597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87886
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57353
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 41573
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 39355
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32195
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36549
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32429
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 36733
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 40104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 31201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 44935
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 32180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 38023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 143025
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68540
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 98287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69380
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57715
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54021
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 17060
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 16334
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 21895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 15497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14438
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 29193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12456
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12974
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14484
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_Replacement",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10815
+    }
+  ]
+}

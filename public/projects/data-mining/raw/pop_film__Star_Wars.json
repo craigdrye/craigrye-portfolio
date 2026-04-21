@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 529737
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 618908
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 627818
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1337844
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1480565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7858067
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2669421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 721219
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 609097
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 859772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 621391
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 385390
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 453482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 510617
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 620446
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 611387
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 694720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2690202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1355260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 491220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 602996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 783772
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 707698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 410494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 497230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 459408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 416651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 690882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 725888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3053932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1137272
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 517564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 609188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 642416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 957135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 733064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 646787
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 491665
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 422478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 360118
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 345055
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 458725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 404056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 319360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 313910
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 469685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 516927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 276739
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 295071
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 366570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 338856
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 429130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 691005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1717394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 774563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 351116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 539946
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 643736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 720030
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 352571
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 337014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 305599
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 294275
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 279606
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 424303
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 691818
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 483866
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 349411
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 328081
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 287981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 399026
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 256845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 279992
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 270282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 258029
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 261090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 272125
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 310643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 369794
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 339832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 259612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 439827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 460384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 300765
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 240989
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 245064
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 255431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 246093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 260609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 275937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221997
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 292232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 359206
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 381630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 251019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 256736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 274805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 256367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 226900
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 246664
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 305709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 247677
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 285762
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 291403
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 347093
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 273223
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 230964
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235776
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221357
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254141
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 244750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 195948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 193398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 266988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 421264
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 253291
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210328
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 201684
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 176187
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177584
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 187637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 206985
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 217996
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Star_Wars",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 168695
+    }
+  ]
+}

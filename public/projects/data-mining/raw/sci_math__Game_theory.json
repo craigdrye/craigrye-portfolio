@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145122
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 106193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113723
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 123070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116678
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117028
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 127369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 119072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 116226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89537
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95323
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99638
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 129899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120140
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 120116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 130181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 145363
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 132384
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 101042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 128003
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 126369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 113215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 121952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 109832
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 117661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115010
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 110475
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93231
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 103346
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 118492
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 115276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 112838
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 111672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 105712
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 95130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 107082
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 99326
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 97144
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76889
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78875
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 86314
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 93147
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 77209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81556
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75642
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88270
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 92952
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70022
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67598
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76792
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 91459
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 90341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 88969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85736
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 80515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79686
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71982
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68073
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85690
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61782
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58768
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 63511
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 68862
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64113
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61948
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 78188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73899
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2023120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65593
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 73054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 66904
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 69485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 57354
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 59241
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 62105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70143
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 64338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 67200
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60226
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 60120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 51103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52524
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56998
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 58846
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 55716
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 52870
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 53481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Game_theory",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54266
+    }
+  ]
+}
