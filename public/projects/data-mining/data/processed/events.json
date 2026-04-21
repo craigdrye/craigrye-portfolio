@@ -24,10 +24,28 @@
     "description": "The BP oil spill triggers a massive environmental disaster, shifting focus toward deep-sea environmental impacts."
   },
   { 
+    "month": "201012", 
+    "title": "Arab Spring", 
+    "domain": "history",
+    "description": "Mass pro-democracy protests begin across the Middle East, toppling long-standing regimes and dominating geopolitical discourse."
+  },
+  { 
     "month": "201103", 
     "title": "Fukushima Disaster", 
     "domain": "history",
     "description": "An earthquake and tsunami lead to the Fukushima nuclear meltdown, radically altering global energy geopolitics."
+  },
+  { 
+    "month": "201105", 
+    "title": "OBL Killed", 
+    "domain": "history",
+    "description": "US forces kill the al-Qaeda leader Osama bin Laden, fundamentally altering the trajectory of the post-9/11 War on Terror."
+  },
+  { 
+    "month": "201109", 
+    "title": "Occupy Wall Street", 
+    "domain": "politics",
+    "description": "Anti-inequality protests launch in NYC, creating a massive surge in populist progressive economic discourse."
   },
   { 
     "month": "201207", 
@@ -46,6 +64,18 @@
     "title": "Crimea Annexed", 
     "domain": "history",
     "description": "Russia annexes Crimea, signaling the return of large-scale geopolitical conflict and territorial disputes in Europe."
+  },
+  { 
+    "month": "201506", 
+    "title": "Marriage Equality (US)", 
+    "domain": "politics",
+    "description": "The Supreme Court guarantees same-sex marriage nationwide, capping a major shift in progressive social metrics."
+  },
+  { 
+    "month": "201509", 
+    "title": "Migrant Crisis Peak", 
+    "domain": "history",
+    "description": "The European refugee crisis reaches its height, acting as a profound catalyst for European right-wing populist movements."
   },
   { 
     "month": "201512", 
@@ -78,6 +108,12 @@
     "description": "The Harvey Weinstein allegations spark a global movement, radically shifting discourse on gender and power dynamics."
   },
   { 
+    "month": "201803", 
+    "title": "US-China Trade War", 
+    "domain": "economics",
+    "description": "The Trump administration enacts broad tariffs on China, signaling a shift toward nationalist economic policy."
+  },
+  { 
     "month": "201811", 
     "title": "CRISPR Twins", 
     "domain": "science",
@@ -105,7 +141,13 @@
     "month": "202005", 
     "title": "George Floyd Protests", 
     "domain": "history",
-    "description": "Unprecedented global demonstrations following police violence spark deep shifts in institutional policy."
+    "description": "Unprecedented global demonstrations following police violence spark deep shifts in progressive institutional policy."
+  },
+  { 
+    "month": "202011", 
+    "title": "Biden Elected", 
+    "domain": "politics",
+    "description": "Joe Biden defeats Donald Trump, briefly stabilizing centrist institutional norms despite high political polarization."
   },
   { 
     "month": "202101", 
@@ -132,6 +174,18 @@
     "description": "Full-scale Russian invasion of Ukraine begins, resetting the 'Cold War' and 'Energy' intelligence metrics."
   },
   { 
+    "month": "202206", 
+    "title": "Roe v. Wade Overturned", 
+    "domain": "politics",
+    "description": "The conservative US Supreme Court eliminates the constitutional right to abortion, upending the political landscape."
+  },
+  { 
+    "month": "202210", 
+    "title": "Musk Buys Twitter", 
+    "domain": "pop_culture",
+    "description": "Elon Musk finalizes the acquisition of Twitter, triggering a major paradigm shift in social media moderation and right-leaning discourse."
+  },
+  { 
     "month": "202211", 
     "title": "ChatGPT Launch", 
     "domain": "science",
@@ -148,6 +202,18 @@
     "title": "Israel-Hamas War", 
     "domain": "history",
     "description": "Conflict begins in Gaza, driving a resurgence in 'Geopolitics' and 'Conflict' mentions across the Intelligence Hub."
+  },
+  { 
+    "month": "202311", 
+    "title": "Milei Wins Argentina", 
+    "domain": "politics",
+    "description": "Right-wing anarcho-capitalist Javier Milei is elected President of Argentina, signaling a rise in international libertarian populism."
+  },
+  { 
+    "month": "202401", 
+    "title": "EU Farmers Protests", 
+    "domain": "politics",
+    "description": "Massive agrarian protests erupt across Europe, reflecting a growing conservative working-class backlash to climate policy."
   },
   { 
     "month": "202404", 
