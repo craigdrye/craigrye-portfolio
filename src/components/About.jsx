@@ -25,7 +25,7 @@ export default function About() {
         >
           <div className="about-text">
             <p>
-              I lead the climate analytics work within Barclays’ Climate and Sustainability Research team, translating frontier climate science, including extreme weather, structural trends, water stress, and seasonal variability, into investment-relevant research for institutional clients.
+              I lead the climate analytics work within Barclays’ Climate and Sustainability Research team, translating frontier climate science, including extreme weather, structural trends, water stress, and seasonal variability, into investment frameworks for institutional clients.
             </p>
             <p>
               Our work spans seasonal climate outlooks, commodity outlooks, and extreme weather risk, assessing climate impacts across a range of sectors and asset classes, mainly utilities, energy, agriculture, insurance, and municipals. I also run a seminar series that brings leading external climate experts into dialogue with our research community.
