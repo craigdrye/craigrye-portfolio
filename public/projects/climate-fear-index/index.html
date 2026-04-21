@@ -11,7 +11,14 @@
     <div id="app">
       <header>
         <h1>Climate Intelligence Dashboard</h1>
-        <p class="subtitle">Granular Strategy & Correlation Engine v5.2</p>
+        <div class="info-card" style="max-width: 800px; margin: 1.5rem auto; text-align: left; font-size: 0.95rem; line-height: 1.6;">
+          <p>
+            There appears to be a correlation between periods of extreme heat waves and public interest in climate change. 
+            This dashboard tracks global media sentiment, social pulse, and Wikipedia searches against physical climate indicators 
+            (such as global temperature anomalies and CO2 levels) to evaluate how market and public anxiety respond to climate events. 
+            Explore the relationship between public discourse, physical reality, and human impact below.
+          </p>
+        </div>
       </header>
 
       <div id="correlation-summary" class="summary-bar">
@@ -421,16 +428,7 @@
             <canvas id="correlationScatterChart"></canvas>
           </div>
 
-          <div class="info-grid">
-            <div class="info-card">
-              <h3>Granular Engine v5.2</h3>
-              <p>
-                Switch any line to Trend view using the **(s)** toggle. 
-                Use **(d)** to detrend individual series for anomaly hunting.
-                The window size is controlled by the **Smoothing Window** above.
-              </p>
-            </div>
-          </div>
+
         </section>
       </main>
 
