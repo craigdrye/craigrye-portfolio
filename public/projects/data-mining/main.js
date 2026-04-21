@@ -183,24 +183,6 @@ let appData = null;
 let eventsData = [];
 let topicDashIndex = {}; // track which dash pattern index each topic gets
 
-// === TELEMETRY ===
-
-async function updateTelemetry() {
-  try {
-    const res = await fetch(`./data/processed/status.json?t=${new Date().getTime()}`);
-    const status = await res.json();
-    Object.entries(status).forEach(([source, info]) => {
-      const domSource = source === 'wikipedia' ? 'wiki' : source;
-      const el = document.querySelector(`.telemetry-item[data-source="${domSource}"]`);
-      if (el) {
-        const label = source === 'wikipedia' ? 'Wiki' : source === 'google' ? 'Google' : source === 'crossref' ? 'Scholar' : 'News';
-        el.textContent = `${label}: ${info.status.toUpperCase()}`;
-        el.className = `telemetry-item ${info.status}`;
-        if (info.message) el.title = info.message;
-      }
-    });
-  } catch (e) { console.warn("Telemetry poll failed", e); }
-}
 
 // === CHART DATASET FACTORY ===
 
@@ -557,8 +539,6 @@ async function init() {
   initCharts();
   populateSidebar(appData);
   populateEventToggles();
-  updateTelemetry();
-  setInterval(updateTelemetry, 15000);
 
   // Tooltip overlay
   const tooltipEl = document.createElement('div');
