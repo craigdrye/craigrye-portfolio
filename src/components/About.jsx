@@ -25,7 +25,7 @@ export default function About() {
         >
           <div className="about-text">
             <p>
-              I lead climate analytics within Barclays’ Climate and Sustainability Research team, translating climate science, sustainability themes, and transition developments into investment frameworks for institutional clients.
+              I work in climate and sustainability research at Barclays where I lead the research on physical risk, how extreme weather, sea level rise, and long-term climate shifts affect markets, though our work spans energy transition and ESG integration more broadly.
             </p>
             <p>
               My work spans physical climate risk, seasonal and extreme weather outlooks, commodity-linked climate analysis, and transition topics including decarbonization pathways and carbon capture. I work across sectors and asset classes — including utilities, energy, agriculture, insurance, and municipals — and collaborate closely with analysts across the bank to connect sustainability trends with macro, sector, and market outcomes. I also run a seminar series that brings leading external experts into dialogue with our research community.
