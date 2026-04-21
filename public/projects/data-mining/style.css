@@ -459,8 +459,8 @@ header h1 {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 0.5rem;
-  flex: 1;
-  min-height: 0;
+  flex: 1 0 auto;
+  min-height: 115vh;
 }
 
 .subplot-panel {
