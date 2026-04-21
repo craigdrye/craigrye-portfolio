@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Climate Intelligence Dashboard</title>
-    <script type="module" crossorigin src="./assets/index-D7qz-Uqu.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-FeqWMchF.css">
+    <script type="module" crossorigin src="./assets/index-DPrL4Sqj.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CiH4VhJ0.css">
   </head>
   <body>
     <div id="app">
@@ -50,7 +50,7 @@
             <div class="checkbox-pair master">
               <div class="main-check">
                 <input type="checkbox" id="show-unified-discourse" checked />
-                <label for="show-unified-discourse">UNIFIED DISCOURSE INDEX</label>
+                <label for="show-unified-discourse">COMPOSITE DISCOURSE INDICATOR</label>
               </div>
               <div class="mini-toggles">
                 <input type="number" id="thickness-unified" class="thickness-input" min="1" max="8" value="2" title="Line thickness" />
@@ -73,7 +73,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-fear" checked />
-                <label for="show-fear">Fear Index</label>
+                <label for="show-fear">Public Anxiety Share</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-fear" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -89,7 +89,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-media" checked />
-                <label for="show-media">Media Mentions</label>
+                <label for="show-media">News Media Volume</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-media" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -105,7 +105,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-pulse" checked />
-                <label for="show-pulse">Social Pulse</label>
+                <label for="show-pulse">Social Media Sentiment</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-pulse" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -121,7 +121,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-climateBase" checked />
-                <label for="show-climateBase">"Climate" Search</label>
+                <label for="show-climateBase">Web Search Volume (Climate)</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-climateBase" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -141,7 +141,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-temp" checked />
-                <label for="show-temp">Temp Anomaly (°C)</label>
+                <label for="show-temp">Global Surface Temp Anomaly (°C)</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-temp" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -157,7 +157,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-co2" />
-                <label for="show-co2">CO2 Levels (ppm)</label>
+                <label for="show-co2">Atmospheric CO2 (ppm)</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-co2" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -173,7 +173,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-tempRate" />
-                <label for="show-tempRate">Temp Rate of Change (°C/yr)</label>
+                <label for="show-tempRate">Derivative Temp Change (°C/yr)</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-tempRate" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -193,7 +193,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-enso" />
-                <label for="show-enso">El Niño / La Niña (RONI/ONI)</label>
+                <label for="show-enso">ENSO (ONI)</label>
               </div>
               <div class="mini-toggles">
                 <input type="number" id="thickness-enso" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
@@ -208,7 +208,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-mei" />
-                <label for="show-mei">Multivariate ENSO (MEI.v2)</label>
+                <label for="show-mei">Multivariate ENSO Index (MEI)</label>
               </div>
               <div class="mini-toggles">
                 <input type="number" id="thickness-mei" class="thickness-input" min="1" max="8" value="1" title="Line thickness" />
@@ -227,7 +227,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-disaster" />
-                <label for="show-disaster">Disaster Frequency</label>
+                <label for="show-disaster">Extreme Event Frequency</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-disaster" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -243,7 +243,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-cost" />
-                <label for="show-cost">Disaster Cost ($B)</label>
+                <label for="show-cost">Economic Damages ($B)</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-cost" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -259,7 +259,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-displacement" />
-                <label for="show-displacement">Displacement (M)</label>
+                <label for="show-displacement">Climate-Driven Displacement (M)</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-displacement" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -279,7 +279,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-coal" />
-                <label for="show-coal">Coal Energy Share (%)</label>
+                <label for="show-coal">Global Coal Generation Share (%)</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-coal" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -295,7 +295,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-litigation" />
-                <label for="show-litigation">Litigation Cases</label>
+                <label for="show-litigation">Climate Litigation Cases</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-litigation" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -311,7 +311,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-carbon" />
-                <label for="show-carbon">Carbon Price (€)</label>
+                <label for="show-carbon">EUA Carbon Price (€)</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-carbon" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -331,7 +331,7 @@
             <div class="checkbox-pair">
               <div class="main-check">
                 <input type="checkbox" id="show-ev" />
-                <label for="show-ev">Electric Car Sales (EV)</label>
+                <label for="show-ev">Electric Vehicle Sales (EV)</label>
               </div>
               <div class="mini-toggles">
                 <input type="checkbox" class="d-toggle" id="d-ev" checked title="Detrend" /> <span class="mini-label">d</span>
@@ -380,7 +380,7 @@
             <div class="mini-chart">
               <div class="chart-header compact">
                 <div>
-                  <h3>Potential Drivers</h3>
+                  <h3>Physical Climate Drivers</h3>
                   <p>Temperature anomaly separated into its own time-series view.</p>
                 </div>
               </div>
@@ -392,34 +392,34 @@
             <div class="chart-header">
               <div>
                 <h3>Correlation Scatter</h3>
-                <p>Compare a discourse series against any non-discourse metric using shared dates.</p>
+                <p>Compare any series against any other series.</p>
               </div>
               <div class="scatter-controls">
                 <label class="select-group" for="scatter-discourse-series">
                   <span>Y Axis</span>
                   <select id="scatter-discourse-series">
-                    <option value="unified" selected>Unified Discourse Index</option>
-                    <option value="fear">Public Fear Index</option>
-                    <option value="media">Media Mentions</option>
-                    <option value="pulse">Social Pulse</option>
-                    <option value="climateBase">"Climate" Search</option>
+                    <option value="unified" selected>Composite Discourse Indicator</option>
+                    <option value="fear">Public Anxiety Share</option>
+                    <option value="media">News Media Volume</option>
+                    <option value="pulse">Social Media Sentiment</option>
+                    <option value="climateBase">Web Search Volume (Climate)</option>
                   </select>
                 </label>
                 <label class="select-group" for="scatter-comparison-series">
                   <span>X Axis</span>
                   <select id="scatter-comparison-series">
-                    <option value="temp" selected>Temperature Anomaly</option>
-                    <option value="tempRate">Temp Rate of Change</option>
-                    <option value="co2">CO2 Levels</option>
-                    <option value="enso">El Nino / La Nina</option>
-                    <option value="mei">Multivariate ENSO</option>
-                    <option value="disaster">Disaster Frequency</option>
-                    <option value="cost">Disaster Cost</option>
-                    <option value="displacement">Human Displacement</option>
-                    <option value="coal">Coal Energy Share</option>
-                    <option value="litigation">Litigation Cases</option>
-                    <option value="carbon">Carbon Price</option>
-                    <option value="ev">EV Sales</option>
+                    <option value="temp" selected>Global Surface Temp Anomaly</option>
+                    <option value="tempRate">Derivative Temp Change</option>
+                    <option value="co2">Atmospheric CO2 Level</option>
+                    <option value="enso">ENSO (ONI)</option>
+                    <option value="mei">Multivariate ENSO Index</option>
+                    <option value="disaster">Extreme Event Frequency</option>
+                    <option value="cost">Economic Damages</option>
+                    <option value="displacement">Climate-Driven Displacement</option>
+                    <option value="coal">Global Coal Generation Share</option>
+                    <option value="litigation">Climate Litigation Cases</option>
+                    <option value="carbon">EUA Carbon Price</option>
+                    <option value="ev">Electric Vehicle Sales</option>
                     <option value="solar">Solar Capacity</option>
                   </select>
                 </label>
