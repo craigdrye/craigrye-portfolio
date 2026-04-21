@@ -50,7 +50,7 @@ export default function Hero() {
           >
             <div className="hero-stat">
               <div className="hero-stat-value">#1</div>
-              <div className="hero-stat-label">II FICC Ranking</div>
+              <div className="hero-stat-label">II FICC<br/>Ranking</div>
             </div>
             <div className="hero-stat">
               <div className="hero-stat-value">459+</div>
