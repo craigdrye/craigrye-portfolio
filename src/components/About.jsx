@@ -28,7 +28,7 @@ export default function About() {
               I lead the climate analytics work within Barclays’ Climate and Sustainability Research team, translating frontier climate science, including extreme weather, structural trends, water stress, and seasonal variability, into investment-relevant research for institutional clients.
             </p>
             <p>
-              Our work spans seasonal climate outlooks, commodity outlooks, wildfire and hurricane risk, to assess climate impacts on a range of sectors and asset classes, mainly utilities, energy, agriculture, insurance, and municipals. I also run a seminar series that brings leading external climate experts into dialogue with our research community.
+              Our work spans seasonal climate outlooks, commodity outlooks, and extreme weather risk, assessing climate impacts across a range of sectors and asset classes—mainly utilities, energy, agriculture, insurance, and municipals. I also run a seminar series that brings leading external climate experts into dialogue with our research community.
             </p>
             <p>
               Before moving into finance, I spent a decade at NASA, MIT, Columbia, and the British Antarctic Survey developing global climate models. That scientific training is the quantitative foundation for my work on the sell-side.
