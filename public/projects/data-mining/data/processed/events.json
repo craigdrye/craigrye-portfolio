@@ -1,5 +1,11 @@
 [
   { 
+    "month": "200701", 
+    "title": "iPhone Unleashed", 
+    "domain": "science",
+    "description": "Steve Jobs announces the iPhone, triggering the mobile internet revolution and changing digital behavior permanently."
+  },
+  { 
     "month": "200809", 
     "title": "Lehmans Collapse", 
     "domain": "economics",
@@ -10,6 +16,24 @@
     "title": "Bitcoin Genesis", 
     "domain": "economics",
     "description": "Satoshi Nakamoto mines the first block of Bitcoin, launching the era of decentralized finance and crypto-correlations."
+  },
+  { 
+    "month": "201004", 
+    "title": "Deepwater Horizon", 
+    "domain": "science",
+    "description": "The BP oil spill triggers a massive environmental disaster, shifting focus toward deep-sea environmental impacts."
+  },
+  { 
+    "month": "201103", 
+    "title": "Fukushima Disaster", 
+    "domain": "history",
+    "description": "An earthquake and tsunami lead to the Fukushima nuclear meltdown, radically altering global energy geopolitics."
+  },
+  { 
+    "month": "201207", 
+    "title": "Higgs Boson", 
+    "domain": "science",
+    "description": "CERN announces the discovery of the Higgs boson, a landmark achievement confirming the Standard Model."
   },
   { 
     "month": "201306", 
@@ -24,6 +48,18 @@
     "description": "Russia annexes Crimea, signaling the return of large-scale geopolitical conflict and territorial disputes in Europe."
   },
   { 
+    "month": "201512", 
+    "title": "Paris Agreement", 
+    "domain": "politics",
+    "description": "196 parties at COP21 adopt an international treaty on climate change, shifting environmental policy globally."
+  },
+  { 
+    "month": "201604", 
+    "title": "Panama Papers", 
+    "domain": "economics",
+    "description": "A massive leak of offshore financial records exposes systemic global tax evasion and elite financial secrecy."
+  },
+  { 
     "month": "201606", 
     "title": "Brexit Vote", 
     "domain": "politics",
@@ -36,10 +72,22 @@
     "description": "Donald Trump wins the US Presidency, fundamentally shifting the 'Polarization' and 'Populism' indices globally."
   },
   { 
+    "month": "201710", 
+    "title": "Me Too Movement", 
+    "domain": "pop_culture",
+    "description": "The Harvey Weinstein allegations spark a global movement, radically shifting discourse on gender and power dynamics."
+  },
+  { 
     "month": "201811", 
     "title": "CRISPR Twins", 
     "domain": "science",
     "description": "He Jiankui announces the first gene-edited humans, sparking a massive ethical and scientific 'CRISPR' mention spike."
+  },
+  { 
+    "month": "201904", 
+    "title": "Black Hole Image", 
+    "domain": "science",
+    "description": "The Event Horizon Telescope captures the first direct visual evidence of a supermassive black hole."
   },
   { 
     "month": "201912", 
@@ -54,10 +102,28 @@
     "description": "The WHO officially declares a Global Pandemic, leading to total dominance of science-related intelligence data."
   },
   { 
+    "month": "202005", 
+    "title": "George Floyd Protests", 
+    "domain": "history",
+    "description": "Unprecedented global demonstrations following police violence spark deep shifts in institutional policy."
+  },
+  { 
     "month": "202101", 
     "title": "Capitol Attack", 
     "domain": "history",
     "description": "US Capitol is stormed by protesters; a peak moment for 'Conspiracy' and 'Democracy' cross-trend analysis."
+  },
+  { 
+    "month": "202108", 
+    "title": "Kabul Fall", 
+    "domain": "history",
+    "description": "The Taliban capture Kabul as US forces withdraw, ending a two-decade-long military intervention."
+  },
+  { 
+    "month": "202112", 
+    "title": "James Webb Launch", 
+    "domain": "science",
+    "description": "The JWST is successfully deployed, revolutionizing astrophysics and space observation capabilities."
   },
   { 
     "month": "202202", 
@@ -72,9 +138,21 @@
     "description": "OpenAI releases ChatGPT, marking the start of the 'Generative AI' explosion across all scientific and economic domains."
   },
   { 
+    "month": "202303", 
+    "title": "SVB Collapse", 
+    "domain": "economics",
+    "description": "Silicon Valley Bank fails, causing a regional banking panic and massive spikes in 'Contagion' search terms."
+  },
+  { 
     "month": "202310", 
     "title": "Israel-Hamas War", 
     "domain": "history",
     "description": "Conflict begins in Gaza, driving a resurgence in 'Geopolitics' and 'Conflict' mentions across the Intelligence Hub."
+  },
+  { 
+    "month": "202404", 
+    "title": "Bitcoin 4th Halving", 
+    "domain": "economics",
+    "description": "The protocol completes its 4th block reward halving, increasing scarcity modeling interest."
   }
 ]

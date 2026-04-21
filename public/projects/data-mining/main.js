@@ -484,8 +484,11 @@ function populateEventToggles() {
   if (!container) return;
   container.innerHTML = eventsData.map((ev, i) => {
     const domainColor = COLORS[ev.domain] || '#64748b';
-    return `<label class="event-chip" style="border-left: 2px solid ${domainColor};">
-      <input type="checkbox" id="event-${i}" />
+    const isDefault = ['Lehmans Collapse', 'COVID-19 Start', 'ChatGPT Launch'].includes(ev.title);
+    const activeClass = isDefault ? 'active' : '';
+    const checkedAttr = isDefault ? 'checked' : '';
+    return `<label class="event-chip ${activeClass}" style="border-left: 2px solid ${domainColor};">
+      <input type="checkbox" id="event-${i}" ${checkedAttr} />
       <span>${ev.title}</span>
     </label>`;
   }).join('');
