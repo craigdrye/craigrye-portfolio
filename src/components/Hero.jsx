@@ -58,7 +58,7 @@ export default function Hero() {
             </div>
             <div className="hero-stat">
               <div className="hero-stat-value">8+</div>
-              <div className="hero-stat-label">Leading Pubs (Nature, GRL & Energy Policy)</div>
+              <div className="hero-stat-label">Leading Pubs (Nature,<br/>GRL & Energy Policy)</div>
             </div>
           </motion.div>
 

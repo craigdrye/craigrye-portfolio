@@ -25,13 +25,13 @@ export default function About() {
         >
           <div className="about-text">
             <p>
-              I work in climate and sustainability research at Barclays, where I lead the team's climate analytics capability. My work translates frontier climate science, extreme weather systems, sea level dynamics, heat stress projections, into actionable investment frameworks for a broad range of institutional clients.
+              I lead the climate analytics work within Barclays’ Climate and Sustainability Research team, translating frontier climate science, including extreme weather, structural trends, water stress, and seasonal variability, into investment-relevant research for institutional clients.
             </p>
             <p>
-              The work covers seasonal climate outlooks, wildfire and hurricane outlooks, and a lot of collaboration with sector analysts across the bank to think through how climate affects everything from utilities to insurance to municipal bonds. I also run a seminar series bringing external climate experts to talk with our community.
+              Our work spans seasonal climate outlooks, wildfire and hurricane risk, and cross-sector collaboration with analysts across asset classes to assess climate impacts on a range of sectors, mainly utilities, energy, agriculture, insurance, and municipals. I also run a seminar series that brings leading external climate experts into dialogue with our research community.
             </p>
             <p>
-              Before finance, I spent a decade at NASA, MIT, Columbia, and the British Antarctic Survey developing global climate models, and building the quantitative foundation that now underpins everything I do on the sell-side.
+              Before moving into finance, I spent a decade at NASA, MIT, Columbia, and the British Antarctic Survey developing global climate models. That scientific training is the quantitative foundation for my work on the sell-side.
             </p>
             <p className="about-origin">
               Based in New York, originally from Nottingham, UK.

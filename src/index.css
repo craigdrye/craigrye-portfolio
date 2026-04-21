@@ -541,8 +541,15 @@ img {
 
 .hero-stats {
   display: flex;
-  gap: var(--space-8);
   margin-bottom: var(--space-8);
+}
+
+.hero-stat:nth-child(1) {
+  margin-right: var(--space-4);
+}
+
+.hero-stat:nth-child(2) {
+  margin-right: var(--space-12);
 }
 
 .hero-stat {
