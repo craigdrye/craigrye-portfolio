@@ -654,6 +654,20 @@ async function init() {
     }
   });
 
+  // Set default selections requested by the user
+  const defaultSelectors = [
+    '#show-science',
+    '.topic-row[data-topic="big_bang"] input',
+    '.topic-row[data-topic="ocean_acidification"] input',
+    '#show-spo_us',
+    '#show-music',
+    '.topic-row[data-topic="homeopathy"] input'
+  ];
+  defaultSelectors.forEach(sel => {
+    const el = document.querySelector(sel);
+    if (el) el.checked = true;
+  });
+
   updateDashboard();
 }
 
