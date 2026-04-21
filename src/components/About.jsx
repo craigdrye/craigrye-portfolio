@@ -25,13 +25,13 @@ export default function About() {
         >
           <div className="about-text">
             <p>
-              I lead the climate analytics work within Barclays’ Climate and Sustainability Research team, translating frontier climate science, including extreme weather, structural trends, water stress, and seasonal variability, into investment frameworks for institutional clients.
+              I lead climate analytics within Barclays’ Climate and Sustainability Research team, translating climate science, sustainability themes, and transition developments into investment frameworks for institutional clients.
             </p>
             <p>
-              Our work spans seasonal climate outlooks, commodity outlooks, and extreme weather risk, assessing climate impacts across a range of sectors and asset classes, mainly utilities, energy, agriculture, insurance, and municipals. I also run a seminar series that brings leading external experts into dialogue with our research community.
+              My work spans physical climate risk, seasonal and extreme weather outlooks, commodity-linked climate analysis, and transition topics including decarbonization pathways and carbon capture. I work across sectors and asset classes — including utilities, energy, agriculture, insurance, and municipals — and collaborate closely with analysts across the bank to connect sustainability trends with macro, sector, and market outcomes. I also run a seminar series that brings leading external experts into dialogue with our research community.
             </p>
             <p>
-              Before moving into finance, I spent a decade at NASA, MIT, Columbia, and the British Antarctic Survey developing global climate models. That scientific training is the quantitative foundation for my work on the sell-side.
+              Before moving into finance, I spent a decade at NASA, MIT, Columbia, and the British Antarctic Survey developing global climate models. Alongside that, I have worked in academic macroeconomic modelling and am familiar with integrated assessment models, which continue to shape my approach to sustainability research on the sell-side.
             </p>
             <p className="about-origin">
               Based in New York, originally from Nottingham, UK.
