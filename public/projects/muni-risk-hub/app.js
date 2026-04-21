@@ -354,7 +354,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         };
 
         const layout = {
-            title: { text: "Federal Physical Hazard Overlay (National Risk Index)", font: { color: '#94a3b8', size: 14 } },
+            title: { text: "FEMA Physical Risk Index", font: { color: '#94a3b8', size: 14 } },
             geo: {
                 scope: 'usa',
                 projection: { type: 'albers usa' },
