@@ -164,7 +164,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             title: { text: "Municipal Financial Yields", font: { color: '#94a3b8', size: 14 } },
             geo: {
                 scope: 'usa',
-                projection: { type: 'albers usa' },
+                projection: { 
+                    type: 'albers usa',
+                    scale: 0.85
+                },
                 showlakes: true,
                 lakecolor: 'rgb(15, 23, 42)',
                 bgcolor: 'rgba(0,0,0,0)',
@@ -357,7 +360,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             title: { text: "FEMA Physical Risk Index", font: { color: '#94a3b8', size: 14 } },
             geo: {
                 scope: 'usa',
-                projection: { type: 'albers usa' },
+                projection: { 
+                    type: 'albers usa',
+                    scale: 0.85
+                },
                 showlakes: true,
                 lakecolor: 'rgb(15, 23, 42)',
                 bgcolor: 'rgba(0,0,0,0)',
