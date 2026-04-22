@@ -35,7 +35,7 @@ export default function Hero() {
             variants={fadeUp}
             custom={2}
           >
-            #1-ranked institutional research analyst (Institutional Investor) bridging{' '}
+            #1-ranked institutional research analyst bridging{' '}
             <strong>quantitative climate risk</strong>, <strong>energy transition economics</strong>,
             and <strong>global macro</strong>. A decade of scientific training at NASA, MIT,
             and Columbia.

@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>National Municipal Risk Explorer | Quantitative Analytics Enterprise v2.0</title>
+    <title>National Municipal Risk Explorer | AlphaEngine v2</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <header id="header">
-        <h1>Municipal Fundamental & Physical Risk Analytics</h1>
+        <h1>Muni Physical Risk Tools</h1>
         
         <div class="controls-group">
             <div class="metric-switcher" style="margin-right: 15px;">
@@ -44,7 +44,7 @@
     <section class="info-bar">
         <div class="container">
             <p>
-                The primary visualization benchmarks municipal bond yield volatility against FEMA physical risk indices. While broad nationwide correlations are currently non-linear, specific regions exhibit statistically significant deviations in yield-spread correlations. This analytics engine evaluates institutional exposure across 189,000+ municipal instruments and 1,400+ U.S. jurisdictions.
+                The LHS map shows the worst performing Muni bonds for each county; for comparison, the RHS map shows the FEMA physical risk scores. While a simple nationwide correlation between muni returns and physical risk has not yet emerged, specific regions show interesting anomalies. This dashboard analyzes 189,000+ municipal bonds across 1,400+ U.S. counties.
             </p>
         </div>
     </section>
@@ -61,7 +61,7 @@
         
         <div id="data-intelligence-badge" class="status-badge">
             <div class="dot pulse"></div>
-            <span id="badge-text">Processing 37,117 Instruments | 881 County Nodes</span>
+            <span id="badge-text">Analyzing 37,117 National Bonds | 881 Counties</span>
         </div>
     </main>
     
