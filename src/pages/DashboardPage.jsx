@@ -41,7 +41,7 @@ export default function DashboardPage() {
     },
     'climate-fear-index': {
       title: 'Climate Fear Index | Dr. Craig D. Rye',
-      description: 'Empirical analysis suggests there could be a connection between hotter temperatures and social interest in climate change. This dashboard compares global climate news volume, social sentiment, and google search interest with climate indicators.'
+      description: 'Empirical analysis suggests there could be a connection between hotter temperatures and social interest in climate change. This dashboard compares global climate news volume, social sentiment, and Google search interest with climate indicators.'
     },
     'global-temperature-tracker': {
       title: 'Global Temperature Tracker | Dr. Craig D. Rye',
