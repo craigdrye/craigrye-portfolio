@@ -161,7 +161,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
 
         const layout = {
-            title: { text: "Municipal Financial Yields", font: { color: '#94a3b8', size: 14 } },
+            title: { 
+                text: "Municipal Financial Yields", 
+                font: { color: '#94a3b8', size: 14 },
+                y: 0.98,
+                yanchor: 'top'
+            },
             geo: {
                 scope: 'usa',
                 projection: { 
@@ -177,7 +182,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 subunitcolor: '#000000',
                 subunitwidth: 1
             },
-            margin: { l: 0, r: 0, t: 25, b: 0 },
+            margin: { l: 0, r: 0, t: 5, b: 0 },
             paper_bgcolor: 'rgba(0,0,0,0)',
             plot_bgcolor: 'rgba(0,0,0,0)'
         };
@@ -357,7 +362,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         };
 
         const layout = {
-            title: { text: "FEMA Physical Risk Index", font: { color: '#94a3b8', size: 14 } },
+            title: { 
+                text: "FEMA Physical Risk Index", 
+                font: { color: '#94a3b8', size: 14 },
+                y: 0.98,
+                yanchor: 'top'
+            },
             geo: {
                 scope: 'usa',
                 projection: { 
@@ -373,7 +383,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 subunitcolor: '#000000',
                 subunitwidth: 1
             },
-            margin: { l: 0, r: 0, t: 25, b: 0 },
+            margin: { l: 0, r: 0, t: 5, b: 0 },
             paper_bgcolor: 'rgba(0,0,0,0)',
             plot_bgcolor: 'rgba(0,0,0,0)'
         };
