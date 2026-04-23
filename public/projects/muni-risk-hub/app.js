@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 scope: 'usa',
                 projection: { 
                     type: 'albers usa',
-                    scale: 1.35
+                    scale: 1.08
                 },
                 showlakes: true,
                 lakecolor: 'rgb(15, 23, 42)',
@@ -372,7 +372,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 scope: 'usa',
                 projection: { 
                     type: 'albers usa',
-                    scale: 1.35
+                    scale: 1.08
                 },
                 showlakes: true,
                 lakecolor: 'rgb(15, 23, 42)',
