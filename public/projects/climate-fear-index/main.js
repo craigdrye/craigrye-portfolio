@@ -691,15 +691,9 @@ function renderTemperatureChart(datasets, isDeep) {
 
 function init() {
   // Bootstraps the static sidebar UI, then hands ongoing updates to updateDashboard().
-  const container = document.getElementById('topics-list');
   const bulkToggle = document.getElementById('toggle-all-discourse');
   const discourseToggleIds = ['show-fear', 'show-media', 'show-pulse', 'show-climateBase'];
-  ARTICLES.forEach(art => {
-    const el = document.createElement('div');
-    el.className = 'topic-tag active';
-    el.textContent = art.title.replace(/_/g, ' ');
-    container.appendChild(el);
-  });
+
 
   function syncBulkDiscourseToggle() {
     if (!bulkToggle) return;
