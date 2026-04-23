@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const layout = {
             title: { 
-                text: "Municipal Financial Yields", 
+                text: "Muni Bond Yields", 
                 font: { color: '#94a3b8', size: 14 },
                 y: 0.95,
                 yanchor: 'top'
