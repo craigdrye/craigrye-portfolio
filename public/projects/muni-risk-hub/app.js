@@ -166,7 +166,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 scope: 'usa',
                 projection: { 
                     type: 'albers usa',
-                    scale: 0.85
+                    scale: 1.2
                 },
                 showlakes: true,
                 lakecolor: 'rgb(15, 23, 42)',
@@ -177,7 +177,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 subunitcolor: '#000000',
                 subunitwidth: 1
             },
-            margin: { l: 0, r: 0, t: 40, b: 0 },
+            margin: { l: 0, r: 0, t: 25, b: 0 },
             paper_bgcolor: 'rgba(0,0,0,0)',
             plot_bgcolor: 'rgba(0,0,0,0)'
         };
@@ -362,7 +362,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 scope: 'usa',
                 projection: { 
                     type: 'albers usa',
-                    scale: 0.85
+                    scale: 1.2
                 },
                 showlakes: true,
                 lakecolor: 'rgb(15, 23, 42)',
@@ -373,7 +373,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 subunitcolor: '#000000',
                 subunitwidth: 1
             },
-            margin: { l: 0, r: 0, t: 40, b: 0 },
+            margin: { l: 0, r: 0, t: 25, b: 0 },
             paper_bgcolor: 'rgba(0,0,0,0)',
             plot_bgcolor: 'rgba(0,0,0,0)'
         };
