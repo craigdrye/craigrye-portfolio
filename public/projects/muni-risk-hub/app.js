@@ -164,14 +164,14 @@ document.addEventListener('DOMContentLoaded', async () => {
             title: { 
                 text: "Municipal Financial Yields", 
                 font: { color: '#94a3b8', size: 14 },
-                y: 0.82,
+                y: 0.95,
                 yanchor: 'top'
             },
             geo: {
                 scope: 'usa',
                 projection: { 
                     type: 'albers usa',
-                    scale: 1.2
+                    scale: 1.35
                 },
                 showlakes: true,
                 lakecolor: 'rgb(15, 23, 42)',
@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 subunitcolor: '#000000',
                 subunitwidth: 1
             },
-            margin: { l: 0, r: 0, t: 5, b: 0 },
+            margin: { l: 0, r: 0, t: 10, b: 0 },
             paper_bgcolor: 'rgba(0,0,0,0)',
             plot_bgcolor: 'rgba(0,0,0,0)'
         };
@@ -365,14 +365,14 @@ document.addEventListener('DOMContentLoaded', async () => {
             title: { 
                 text: "FEMA Physical Risk Index", 
                 font: { color: '#94a3b8', size: 14 },
-                y: 0.82,
+                y: 0.95,
                 yanchor: 'top'
             },
             geo: {
                 scope: 'usa',
                 projection: { 
                     type: 'albers usa',
-                    scale: 1.2
+                    scale: 1.35
                 },
                 showlakes: true,
                 lakecolor: 'rgb(15, 23, 42)',
@@ -383,7 +383,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 subunitcolor: '#000000',
                 subunitwidth: 1
             },
-            margin: { l: 0, r: 0, t: 5, b: 0 },
+            margin: { l: 0, r: 0, t: 10, b: 0 },
             paper_bgcolor: 'rgba(0,0,0,0)',
             plot_bgcolor: 'rgba(0,0,0,0)'
         };
