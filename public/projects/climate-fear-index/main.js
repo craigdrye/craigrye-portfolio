@@ -446,7 +446,7 @@ async function updateDashboard() {
   registerScatterSeries(scatterSeries, 'fear', 'Wikipedia Views (% en.wiki)', fearWikiShare);
   registerScatterSeries(scatterSeries, 'media', 'News Media Volume', getProcessedSeries(filterData(mediaData, minDate), 'y', 'media'));
   registerScatterSeries(scatterSeries, 'pulse', 'Social Media Sentiment', getProcessedSeries(filterData(sentimentData, minDate), 'y', 'pulse'));
-  registerScatterSeries(scatterSeries, 'climateBase', 'Web Search Volume (Climate)', getProcessedSeries(filterKey(baselineData, minDate, 'climate'), 'y', 'climateBase'));
+  registerScatterSeries(scatterSeries, 'climateBase', 'Web Search Volume', getProcessedSeries(filterKey(baselineData, minDate, 'climate'), 'y', 'climateBase'));
 
   const tempSeries = getProcessedSeries(filterKey(physicalData, minDate, 'temp'), 'yTemp', 'temp');
   const tempRateRaw = rateOfChange(filterKey(physicalData, minDate, 'temp'));
@@ -490,7 +490,7 @@ async function updateDashboard() {
   }
   addData('News Media Volume', filterData(mediaData, minDate), '#e07b00', 'y', 'media', 1, 'discourse', 'y');
   addData('Social Media Sentiment', filterData(sentimentData, minDate), '#9b00cc', 'y', 'pulse', 1, 'discourse', 'y');
-  addData('Web Search Volume (Climate)', filterKey(baselineData, minDate, 'climate'), '#00a85a', 'y', 'climateBase', 1, 'discourse', 'y');
+  addData('Web Search Volume', filterKey(baselineData, minDate, 'climate'), '#00a85a', 'y', 'climateBase', 1, 'discourse', 'y');
 
   addData('Global Surface Temp Anomaly (°C)', filterKey(physicalData, minDate, 'temp'), '#cc2233', 'yTemp', 'temp', 1, 'temperature', 'yTempLeft');
   // Rate of change of temp — computed from raw data before filtering
