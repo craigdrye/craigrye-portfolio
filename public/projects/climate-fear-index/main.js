@@ -443,7 +443,7 @@ async function updateDashboard() {
     registerScatterSeries(scatterSeries, 'unified', 'Composite Discourse Indicator', getUnifiedDiscourseSeries(fearIndex, minDate, smoothingWindow));
   }
 
-  registerScatterSeries(scatterSeries, 'fear', 'Public Anxiety Share (% en.wiki)', fearWikiShare);
+  registerScatterSeries(scatterSeries, 'fear', 'Wikipedia Views (% en.wiki)', fearWikiShare);
   registerScatterSeries(scatterSeries, 'media', 'News Media Volume', getProcessedSeries(filterData(mediaData, minDate), 'y', 'media'));
   registerScatterSeries(scatterSeries, 'pulse', 'Social Media Sentiment', getProcessedSeries(filterData(sentimentData, minDate), 'y', 'pulse'));
   registerScatterSeries(scatterSeries, 'climateBase', 'Web Search Volume (Climate)', getProcessedSeries(filterKey(baselineData, minDate, 'climate'), 'y', 'climateBase'));
@@ -485,7 +485,7 @@ async function updateDashboard() {
   if (document.getElementById('show-fear')?.checked) {
     const fearThickness = parseInt(document.getElementById('thickness-fear')?.value) || 1;
     discourseDatasets.push(
-      createDataset('Public Anxiety Share (% en.wiki)', fearWikiShare, '#0097b7', 'yWikiShare', false, 0, fearThickness)
+      createDataset('Wikipedia Views (% en.wiki)', fearWikiShare, '#0097b7', 'yWikiShare', false, 0, fearThickness)
     );
   }
   addData('News Media Volume', filterData(mediaData, minDate), '#e07b00', 'y', 'media', 1, 'discourse', 'y');
