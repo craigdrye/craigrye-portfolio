@@ -633,7 +633,7 @@ function renderDiscourseChart(datasets, isDeep) {
         },
         yWikiShare: {
           position: 'right',
-          title: { display: true, text: 'Selected climate pages (% of en.wiki)' },
+          title: { display: true, text: 'Wikipedia Views (Share)' },
           ticks: { color: '#4a5568' },
           grid: { drawOnChartArea: false },
           ...fixedAxisWidth()
