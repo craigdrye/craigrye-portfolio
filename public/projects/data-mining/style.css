@@ -105,12 +105,26 @@ header h1 {
   flex-wrap: wrap;
 }
 
-/* Event Toggle Chips in Header */
+/* Event Toggle Rail in Header */
+.event-rail {
+  flex: 1;
+  max-width: 600px;
+  overflow-x: auto;
+  padding: 0.1rem 0;
+  scrollbar-width: none; /* Hide scrollbar for Firefox */
+  mask-image: linear-gradient(90deg, black 95%, transparent 100%);
+  -webkit-mask-image: linear-gradient(90deg, black 95%, transparent 100%);
+}
+
+.event-rail::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for Chrome/Safari */
+}
+
 .event-toggles {
   display: flex;
   align-items: center;
-  gap: 0.35rem;
-  flex-wrap: wrap;
+  gap: 0.3rem;
+  white-space: nowrap;
 }
 
 .event-chip {
@@ -138,6 +152,7 @@ header h1 {
   height: 10px;
   margin: 0;
   cursor: pointer;
+  accent-color: var(--accent);
 }
 
 .event-chip.active {
@@ -211,8 +226,8 @@ header h1 {
   gap: 4px;
 }
 
-.trend-up .trend-group-header { color: #16a34a; background: rgba(22, 163, 74, 0.05); }
-.trend-down .trend-group-header { color: #dc2626; background: rgba(220, 38, 38, 0.05); }
+.trend-up .trend-group-header { color: #16a34a; background: rgba(22, 163, 74, 0.03); }
+.trend-down .trend-group-header { color: #dc2626; background: rgba(220, 38, 38, 0.03); }
 
 /* Layout */
 .dashboard-grid {
@@ -500,7 +515,7 @@ header h1 {
   background: #ffffff;
   border: 1px solid var(--border-light);
   border-radius: 8px;
-  padding: 0.75rem 1rem;
+  padding: 0.5rem 0.75rem;
   flex-shrink: 0;
 }
 

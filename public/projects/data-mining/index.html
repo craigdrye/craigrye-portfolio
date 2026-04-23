@@ -20,8 +20,10 @@
           <h1>Data Mining Hub</h1>
         </div>
         <div class="header-controls">
-          <div class="event-toggles" id="event-toggles">
-            <!-- Event checkboxes injected by JS -->
+          <div class="event-rail">
+            <div class="event-toggles" id="event-toggles">
+              <!-- Event checkboxes injected by JS -->
+            </div>
           </div>
           <div class="time-pills" id="time-pills">
             <button class="time-pill" data-years="1">1Y</button>
@@ -35,7 +37,7 @@
 
       <div class="info-card" style="margin: 1rem 1.5rem 0.5rem; text-align: left; font-size: 0.9rem; line-height: 1.6; border-radius: 4px; border-left: 3px solid #334155;">
         <p>
-          An exploratory dashboard exploring mentions of key terms across Wikipedia, Google Search, and public media.
+          Cross-platform analytics mapping research trends across Wikipedia, Google Search, and public media.
         </p>
       </div>
 
@@ -56,11 +58,11 @@
         <section class="content-area">
           <div class="subplot-grid">
             <div class="subplot-panel">
-              <div class="subplot-title">Wikipedia Discourse Share (%)</div>
+            <div class="subplot-title">Wikipedia Views (Share)</div>
               <div class="subplot-chart"><canvas id="chart-wiki"></canvas></div>
             </div>
             <div class="subplot-panel">
-              <div class="subplot-title">Google Search Interest Index (0-100)</div>
+              <div class="subplot-title">Web Search Volume</div>
               <div class="subplot-chart"><canvas id="chart-google"></canvas></div>
             </div>
             <div class="subplot-panel">
@@ -76,7 +78,7 @@
           <div class="info-card">
             <div class="info-flex">
               <div>
-                <h3>Quantitative Correlation Analysis</h3>
+                <h3>Cross-Source Correlation</h3>
                 <p>
                   All 4 sources shown simultaneously. Toggle events via header checkboxes.
                   Use <strong>↑↓</strong> to shift peaks. Line styles cycle per topic.

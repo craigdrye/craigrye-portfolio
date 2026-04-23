@@ -431,7 +431,7 @@ function populateSidebar(data) {
       if (trendingUp.length > 0) {
         topicsHtml += `
           <div class="trend-group trend-up">
-            <div class="trend-group-header"><span>🔥 Trending Up</span></div>
+            <div class="trend-group-header"><span>🔥</span></div>
             ${trendingUp.map(t => renderTopicRow(t, bucketKey, domainKey)).join('')}
           </div>
         `;
@@ -439,7 +439,7 @@ function populateSidebar(data) {
       if (trendingDown.length > 0) {
         topicsHtml += `
           <div class="trend-group trend-down">
-            <div class="trend-group-header"><span>📉 Trending Down</span></div>
+            <div class="trend-group-header"><span>📉</span></div>
             ${trendingDown.map(t => renderTopicRow(t, bucketKey, domainKey)).join('')}
           </div>
         `;
