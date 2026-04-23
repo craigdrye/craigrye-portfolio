@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             title: { 
                 text: "Municipal Financial Yields", 
                 font: { color: '#94a3b8', size: 14 },
-                y: 0.98,
+                y: 0.82,
                 yanchor: 'top'
             },
             geo: {
@@ -365,7 +365,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             title: { 
                 text: "FEMA Physical Risk Index", 
                 font: { color: '#94a3b8', size: 14 },
-                y: 0.98,
+                y: 0.82,
                 yanchor: 'top'
             },
             geo: {
