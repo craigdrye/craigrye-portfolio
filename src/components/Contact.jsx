@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { Mail, Link2, GraduationCap } from 'lucide-react'
 
-export default function Contact() {
+export default function Contact({ title }) {
   return (
     <section className="section contact-section" id="contact">
       <div className="container">
@@ -13,7 +13,7 @@ export default function Contact() {
         >
           <div className="section-label" style={{ justifyContent: 'center' }}>Contact</div>
           <h2 className="contact-cta">
-            Let's <span className="gradient-text">connect</span>
+            {title ? <>{title.split(' ')[0]} <span className="gradient-text">{title.split(' ').slice(1).join(' ')}</span></> : <>Let's <span className="gradient-text">connect</span></>}
           </h2>
 
           <div className="contact-links">

@@ -8,10 +8,10 @@ const experiences = [
     active: true,
     highlights: [
       'Ranked #1 personally and #1 as team in Sustainable Investing, Institutional Investor (Extel) Global FICC Survey 2025; up from #3 in 2024',
+      'Developed 3 proprietary data products: El Niño/sugar price signal framework, heat stress projections, and ERA-Interim weather analytics pipeline',
+      'Leads 3 flagship series: Climate-101, Seasonal Climate Outlook, and the market-leading Extreme Weather program',
       'Built the physical climate risk research capability from scratch; most senior analyst on this theme in a group of 11',
       'Authors ~60 lead reports and contributes to ~100 reports annually across institutional client base',
-      'Leads 3 flagship series: Climate-101, Seasonal Climate Outlook, and the market-leading Extreme Weather program',
-      'Developed 3 proprietary data products: El Niño/sugar price signal framework, heat stress projections, and ERA-Interim weather analytics pipeline',
       'Client base includes BlackRock, Loomis Sayles, Amundi, UBS, the World Bank, and the UN',
     ],
   },

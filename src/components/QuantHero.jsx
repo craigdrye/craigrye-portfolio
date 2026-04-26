@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { FileDown, Terminal, Cpu, Database, BarChart3 } from 'lucide-react'
+import { FileDown, Cpu, Database, BarChart3 } from 'lucide-react'
 
 const fadeUp = {
   hidden: { opacity: 0, y: 20 },
@@ -19,16 +19,6 @@ export default function QuantHero() {
       <div className="container">
         <div className="quant-hero-content">
           <div className="quant-hero-text">
-            <motion.div 
-              className="quant-badge"
-              initial="hidden"
-              animate="visible"
-              variants={fadeUp}
-              custom={0}
-            >
-              <Terminal size={14} /> <span>Quantitative Research & Signal Extraction</span>
-            </motion.div>
-
             <motion.h1
               className="quant-title"
               initial="hidden"
@@ -47,9 +37,10 @@ export default function QuantHero() {
               variants={fadeUp}
               custom={2}
             >
-              <strong>Bridging physical science & capital markets.</strong> #1-ranked institutional research analyst 
-              utilizing a decade of NASA/MIT scientific modeling background to extract alpha from complex, 
-              non-linear global datasets. Specializing in climate risk and macro-econometric modeling.
+              <strong>Extracting alpha from non-linear global datasets.</strong> #1-ranked institutional 
+              research analyst applying a decade of NASA/MIT numerical modeling to build proprietary signal 
+              frameworks and data products. The same methods that govern climate systems — stochastic processes, 
+              regime detection, Monte Carlo simulation — drive systematic trading strategies.
             </motion.p>
 
             <motion.div
@@ -61,15 +52,15 @@ export default function QuantHero() {
             >
               <div className="hero-stat">
                 <div className="hero-stat-value">#1</div>
-                <div className="hero-stat-label">II Sustainable<br/>Investing (2025)</div>
+                <div className="hero-stat-label">Sustainable<br/>Investing (2025)</div>
               </div>
               <div className="hero-stat">
-                <div className="hero-stat-value">10Y</div>
-                <div className="hero-stat-label">Numerical Model<br/>Development</div>
+                <div className="hero-stat-value">5+</div>
+                <div className="hero-stat-label">Proprietary Signal<br/>Frameworks</div>
               </div>
               <div className="hero-stat">
-                <div className="hero-stat-value">PB+</div>
-                <div className="hero-stat-label">Geospatial Data<br/>Analytics</div>
+                <div className="hero-stat-value">350+</div>
+                <div className="hero-stat-label">Academic<br/>Citations</div>
               </div>
             </motion.div>
 
@@ -81,7 +72,7 @@ export default function QuantHero() {
               custom={4}
             >
               <a href="/Craig_Rye_CV.pdf" download className="btn-primary">
-                <FileDown size={18} /> Download Quant CV
+                <FileDown size={18} /> Download CV
               </a>
             </motion.div>
           </div>

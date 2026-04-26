@@ -49,6 +49,7 @@ const projects = [
     description: "Visualizing three decades of satellite data to reveal the drivers of Antarctic climate dynamics, as published in Nature Geoscience.",
     media: { type: 'video', src: '/projects/antarctic-climate-change/antarctic_ssh_93_24_v4.mp4', poster: '/projects/antarctic-climate-change/assets/preview.jpg' },
     link: '/dashboards/antarctic-climate-change',
+    technical: true,
   },
 ]
 

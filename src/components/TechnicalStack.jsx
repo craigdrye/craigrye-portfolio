@@ -1,10 +1,12 @@
 import { motion } from 'framer-motion'
 
 const techStack = [
-  { category: 'Languages', items: ['Python (Expert)', 'Fortran 90/95', 'SQL', 'Zsh/Bash'] },
-  { category: 'Data & Modeling', items: ['xarray / Dask', 'NumPy / SciPy', 'Pandas', 'Sci-kit Learn'] },
-  { category: 'Numerical', items: ['Finite Difference Methods', 'MPI / OpenMP', 'Monte Carlo Simulation', 'Numerical Integration'] },
-  { category: 'Domain Expertise', items: ['Stochastic Processes', 'Time-Series Analysis', 'Complexity Economics', 'Geospatial Analytics'] },
+  { category: 'Languages', items: ['Python', 'Fortran 90/95', 'SQL', 'JavaScript', 'Zsh/Bash'] },
+  { category: 'Data & Modeling', items: ['xarray / Dask', 'NumPy / SciPy', 'Pandas', 'Sci-kit Learn', 'Statsmodels'] },
+  { category: 'Numerical Methods', items: ['Finite Difference Methods', 'MPI / OpenMP', 'Monte Carlo Simulation', 'Numerical Integration', 'Neural ODEs'] },
+  { category: 'Statistical Methods', items: ['Bayesian Inference', 'Regime Detection', 'Factor Modeling', 'Spectral Analysis'] },
+  { category: 'Quantitative Methods', items: ['Stochastic Processes', 'Time-Series Analysis', 'Non-Linear Dynamics', 'Signal Extraction'] },
+  { category: 'Infrastructure', items: ['Docker', 'AWS / GCP', 'Git / CI-CD', 'REST APIs', 'React / Vite'] },
 ]
 
 export default function TechnicalStack() {
