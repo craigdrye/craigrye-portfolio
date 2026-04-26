@@ -9,6 +9,7 @@ const projects = [
     description: "It's getting hot in hear? Tracking global temperature anomalies against climate models with near-term outlooks from the leading climate researchers.",
     media: { type: 'image', src: '/images/projects/global_temp.png' },
     link: '/dashboards/global-temperature-tracker',
+    technical: true,
   },
   {
     tag: 'Municipal Finance',
@@ -16,6 +17,7 @@ const projects = [
     description: 'Mapping the trends in Muni bond returns and extreme weather risks',
     media: { type: 'image', src: '/images/projects/muni_hub.png' },
     link: '/dashboards/muni-risk-hub',
+    technical: true,
   },
   {
     tag: 'Climate Risk',
@@ -23,6 +25,7 @@ const projects = [
     description: 'This real-time tracker follows global media climate sentiment and physical climate indicators.',
     media: { type: 'image', src: '/images/projects/climate_fear.png' },
     link: '/dashboards/climate-fear-index',
+    technical: true,
   },
   {
     tag: 'Data Analytics',
@@ -30,6 +33,7 @@ const projects = [
     description: 'Sifting through a range of social datasets for market connections.',
     media: { type: 'image', src: '/images/projects/data_mining.png' },
     link: '/dashboards/data-mining',
+    technical: true,
   },
   {
     tag: 'Complexity Economics',
@@ -37,6 +41,7 @@ const projects = [
     description: 'Research on the non-linear physics behind economic tipping points, published in Nature Scientific Reports.',
     media: { type: 'image', src: '/images/projects/complexity.png' },
     link: '/dashboards/complexity-economics',
+    technical: true,
   },
   {
     tag: 'Climate Insights',
@@ -57,7 +62,11 @@ const cardVariants = {
   visible: { opacity: 1, y: 0, transition: { duration: 0.5, ease: [0.22, 1, 0.36, 1] } },
 }
 
-export default function Projects() {
+export default function Projects({ title, filter }) {
+  const displayProjects = filter === 'technical' 
+    ? projects.filter(p => p.technical) 
+    : projects;
+
   return (
     <section className="section" id="projects">
       <div className="container">
@@ -69,7 +78,7 @@ export default function Projects() {
         >
           <div className="section-label">Applied Research</div>
           <h2 className="section-title">
-            Research <span className="gradient-text">Dashboards & Tools</span>
+            {title ? title : <>Research <span className="gradient-text">Dashboards & Tools</span></>}
           </h2>
           <p className="section-subtitle" style={{ marginBottom: 'var(--space-12)' }}>
             Homegrown interactive dashboards, connecting climate science, quantitative methods, and financial data.
@@ -83,7 +92,7 @@ export default function Projects() {
           whileInView="visible"
           viewport={{ once: true, margin: '-50px' }}
         >
-          {projects.map((project) => (
+          {displayProjects.map((project) => (
             <motion.div className="project-card glass-card" key={project.title} variants={cardVariants}>
               <Link to={project.link} style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}>
                   <div className="project-card-preview">

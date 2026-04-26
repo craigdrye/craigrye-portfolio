@@ -83,9 +83,6 @@ export default function QuantHero() {
               <a href="/Craig_Rye_CV.pdf" download className="btn-primary">
                 <FileDown size={18} /> Download Quant CV
               </a>
-              <a href="#modeling" className="btn-secondary">
-                View Modeling Stack
-              </a>
             </motion.div>
           </div>
 
