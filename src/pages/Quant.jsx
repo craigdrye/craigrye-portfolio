@@ -34,7 +34,7 @@ export default function Quant() {
       <Projects title="Research Dashboards" filter="technical" />
       <Experience />
       <Publications />
-      <Contact title="Quant Inquiry" />
+      <Contact />
     </main>
   )
 }
