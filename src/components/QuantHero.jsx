@@ -49,7 +49,7 @@ export default function QuantHero() {
             >
               <strong>Bridging physical science & capital markets.</strong> #1-ranked institutional research analyst 
               utilizing a decade of NASA/MIT scientific modeling background to extract alpha from complex, 
-              non-linear global datasets. Specializing in climate risk, energy volatility, and macro-econometric modeling.
+              non-linear global datasets. Specializing in climate risk and macro-econometric modeling.
             </motion.p>
 
             <motion.div
