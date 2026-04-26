@@ -53,11 +53,32 @@ export default function QuantHero() {
             </motion.p>
 
             <motion.div
-              className="quant-actions"
+              className="hero-stats"
               initial="hidden"
               animate="visible"
               variants={fadeUp}
               custom={3}
+            >
+              <div className="hero-stat">
+                <div className="hero-stat-value">#1</div>
+                <div className="hero-stat-label">II Sustainable<br/>Investing (2025)</div>
+              </div>
+              <div className="hero-stat">
+                <div className="hero-stat-value">10Y</div>
+                <div className="hero-stat-label">Numerical Model<br/>Development</div>
+              </div>
+              <div className="hero-stat">
+                <div className="hero-stat-value">PB+</div>
+                <div className="hero-stat-label">Geospatial Data<br/>Analytics</div>
+              </div>
+            </motion.div>
+
+            <motion.div
+              className="quant-actions"
+              initial="hidden"
+              animate="visible"
+              variants={fadeUp}
+              custom={4}
             >
               <a href="/Craig_Rye_CV.pdf" download className="btn-primary">
                 <FileDown size={18} /> Download Quant CV
@@ -69,26 +90,25 @@ export default function QuantHero() {
           </div>
 
           <motion.div 
-            className="quant-hero-visual"
+            className="hero-visual"
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 1, delay: 0.4 }}
           >
-            <div className="quant-stat-grid">
-              <div className="quant-stat-card glass-card">
-                <BarChart3 className="quant-stat-icon" />
-                <div className="quant-stat-val">#1</div>
-                <div className="quant-stat-label">II Sustainable Investing Ranking (2025)</div>
+            <div className="hero-photo-outer">
+              <div className="hero-photo-frame">
+                <img
+                  src="/images/headshot.jpg"
+                  alt="Dr. Craig D. Rye - Quantitative Researcher"
+                  className="hero-photo"
+                />
               </div>
-              <div className="quant-stat-card glass-card">
-                <Cpu className="quant-stat-icon" />
-                <div className="quant-stat-val">10Y</div>
-                <div className="quant-stat-label">Numerical Model Development (Fortran/Python)</div>
-              </div>
-              <div className="quant-stat-card glass-card">
-                <Database className="quant-stat-icon" />
-                <div className="quant-stat-val">PB+</div>
-                <div className="quant-stat-label">Petabyte-scale Geospatial Data Analytics</div>
+              
+              <div className="hero-institutions-grid">
+                <div className="hero-inst-tag">Barclays</div>
+                <div className="hero-inst-tag">NASA</div>
+                <div className="hero-inst-tag">MIT</div>
+                <div className="hero-inst-tag">Columbia</div>
               </div>
             </div>
           </motion.div>
