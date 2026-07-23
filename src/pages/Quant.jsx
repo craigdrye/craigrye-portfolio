@@ -6,7 +6,6 @@ import Projects from '../components/Projects'
 import Publications from '../components/Publications'
 import Experience from '../components/Experience'
 import Contact from '../components/Contact'
-import SignalExtraction from '../components/SignalExtraction'
 
 export default function Quant() {
   const { theme, setTheme } = useTheme()
@@ -30,7 +29,6 @@ export default function Quant() {
     <main className="quant-page">
       <QuantHero />
       <TechnicalStack />
-      <SignalExtraction />
       <Projects title="Old papers and personal projects" filter="technical" />
       <Experience />
       <Publications />
