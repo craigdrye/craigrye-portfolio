@@ -68,9 +68,6 @@ export default function Nav() {
               <div className="nav-dropdown">
                 <div className="nav-dropdown-section">
                   <h4 className="nav-dropdown-title">Projects</h4>
-                  <Link to="/dashboards/global-temperature-tracker" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Global Temperature Tracker</Link>
-                  <Link to="/dashboards/muni-risk-hub" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Municipal Risk Tools</Link>
-                  <Link to="/dashboards/climate-fear-index" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Climate Fear Index</Link>
                   <Link to="/dashboards/data-mining" className="nav-dropdown-link" onClick={() => setMobileOpen(false)}>Data Mining</Link>
                 </div>
                 <div className="nav-dropdown-section">

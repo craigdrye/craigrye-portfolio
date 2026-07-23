@@ -10,6 +10,7 @@ const projects = [
     media: { type: 'image', src: '/images/projects/global_temp.png' },
     link: '/dashboards/global-temperature-tracker',
     technical: true,
+    hidden: true,
   },
   {
     tag: 'Municipal Finance',
@@ -18,6 +19,7 @@ const projects = [
     media: { type: 'image', src: '/images/projects/muni_hub.png' },
     link: '/dashboards/muni-risk-hub',
     technical: true,
+    hidden: true,
   },
   {
     tag: 'Climate Risk',
@@ -26,6 +28,7 @@ const projects = [
     media: { type: 'image', src: '/images/projects/climate_fear.png' },
     link: '/dashboards/climate-fear-index',
     technical: true,
+    hidden: true,
   },
   {
     tag: 'Data Analytics',
@@ -64,9 +67,10 @@ const cardVariants = {
 }
 
 export default function Projects({ title, filter }) {
-  const displayProjects = filter === 'technical' 
-    ? projects.filter(p => p.technical) 
-    : projects;
+  const visibleProjects = projects.filter(p => !p.hidden);
+  const displayProjects = filter === 'technical'
+    ? visibleProjects.filter(p => p.technical)
+    : visibleProjects;
 
   return (
     <section className="section" id="projects">
