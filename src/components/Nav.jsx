@@ -63,7 +63,7 @@ export default function Nav() {
             onMouseLeave={() => setDropdownOpen(false)}
             onClick={() => setDropdownOpen(!dropdownOpen)}
           >
-            Research Dashboards <ChevronDown size={14} style={{ marginLeft: '4px', verticalAlign: 'middle' }} />
+            Personal fun projects <ChevronDown size={14} style={{ marginLeft: '4px', verticalAlign: 'middle' }} />
             {dropdownOpen && (
               <div className="nav-dropdown">
                 <div className="nav-dropdown-section">
