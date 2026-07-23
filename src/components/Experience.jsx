@@ -12,7 +12,6 @@ const experiences = [
       'Leads 3 flagship series: Climate-101, Seasonal Climate Outlook, and the market-leading Extreme Weather program',
       'Built the physical climate risk research capability from scratch; most senior analyst on this theme in a group of 11',
       'Authors ~60 lead reports and contributes to ~100 reports annually across institutional client base',
-      'Client base includes BlackRock, Loomis Sayles, Amundi, UBS, the World Bank, and the UN',
     ],
   },
   {

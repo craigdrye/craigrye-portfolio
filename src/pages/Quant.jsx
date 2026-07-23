@@ -31,7 +31,7 @@ export default function Quant() {
       <QuantHero />
       <TechnicalStack />
       <SignalExtraction />
-      <Projects title="Research Dashboards" filter="technical" />
+      <Projects title="Personal fun projects" filter="technical" />
       <Experience />
       <Publications />
       <Contact />

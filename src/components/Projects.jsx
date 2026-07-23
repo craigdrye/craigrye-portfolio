@@ -79,7 +79,7 @@ export default function Projects({ title, filter }) {
         >
           <div className="section-label">Applied Research</div>
           <h2 className="section-title">
-            {title ? title : <>Research <span className="gradient-text">Dashboards & Tools</span></>}
+            {title ? title : <>Personal <span className="gradient-text">fun projects</span></>}
           </h2>
           <p className="section-subtitle" style={{ marginBottom: 'var(--space-12)' }}>
             Homegrown interactive dashboards, connecting climate science, quantitative methods, and financial data.
