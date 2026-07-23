@@ -96,12 +96,6 @@ export default function Hero() {
               />
             </div>
             
-            <div className="hero-institutions-grid">
-              <div className="hero-inst-tag">Barclays</div>
-              <div className="hero-inst-tag">NASA</div>
-              <div className="hero-inst-tag">MIT</div>
-              <div className="hero-inst-tag">Columbia</div>
-            </div>
           </motion.div>
         </div>
       </div>
