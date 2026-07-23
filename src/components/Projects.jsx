@@ -81,9 +81,9 @@ export default function Projects({ title, filter }) {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <div className="section-label">Applied Research</div>
+          <div className="section-label">Personal fun projects</div>
           <h2 className="section-title">
-            {title ? title : <>Personal <span className="gradient-text">fun projects</span></>}
+            {title ? title : <>Old papers and <span className="gradient-text">personal projects</span></>}
           </h2>
           <p className="section-subtitle" style={{ marginBottom: 'var(--space-12)' }}>
             Homegrown interactive dashboards, connecting climate science, quantitative methods, and financial data.
