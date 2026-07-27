@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Navigate } from 'react-router-dom';
 import { useTheme } from '../ThemeContext';
 
 export default function DashboardPage() {
@@ -27,10 +27,6 @@ export default function DashboardPage() {
   };
 
   const dashboardsMetadata = {
-    'muni-risk-hub': {
-      title: 'Municipal Risk Tools | Dr. Craig D. Rye',
-      description: 'Dual-layer intelligence engine mapping 189,000+ municipal bonds across 1,400+ U.S. counties, overlaid with FEMA National Risk Index physical hazard scores.'
-    },
     'antarctic-climate-change': {
       title: 'Antarctic Climate Dynamics | Dr. Craig D. Rye',
       description: 'Interactive dashboard analyzing Antarctic shelf waters and their impact on global sea level rise. Quantitative research on physical climate risk.'
@@ -38,14 +34,6 @@ export default function DashboardPage() {
     'complexity-economics': {
       title: 'Non-Linear Market Dynamics | Dr. Craig D. Rye',
       description: 'Exploring non-linear systems and market indicators through a complexity lens. Interactive simulations of tipping points and feedback loops.'
-    },
-    'climate-fear-index': {
-      title: 'Climate Fear Index | Dr. Craig D. Rye',
-      description: 'Empirical analysis suggests there could be a connection between hotter temperatures and social interest in climate change. This dashboard compares global climate news volume, social sentiment, and Google search interest with climate indicators.'
-    },
-    'global-temperature-tracker': {
-      title: 'Global Temperature Tracker | Dr. Craig D. Rye',
-      description: 'GISTEMP observations vs. CMIP6 model uncertainty with near-term expert predictions. Real-time visualization and analysis of global mean temperature anomalies.'
     },
     'data-mining': {
       title: 'Data Mining Hub | Dr. Craig D. Rye',
@@ -82,6 +70,10 @@ export default function DashboardPage() {
       }
     };
   }, [dashboardId, currentMetadata]);
+
+  if (!dashboardsMetadata[dashboardId]) {
+    return <Navigate to="/" replace />;
+  }
 
   return (
     <main className="dashboard-page" style={{ paddingTop: 'var(--nav-height)' }}>
